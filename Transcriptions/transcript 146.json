@@ -1,0 +1,2482 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "bdadb5f4-e7fa-4a8a-aafd-3912a862ffa9",
+        "sha256": "c7f96f7be3ff01360675cb7b6b9ace48c85decc0e5e12f8129c55c0e2e736dc5",
+        "created": "2025-02-21T15:03:09.417Z",
+        "duration": 222.9335,
+        "channels": 1,
+        "models": [
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+        ],
+        "model_info": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+                "name": "2-general-nova",
+                "version": "2024-01-06.5664",
+                "arch": "nova-2"
+            }
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "mister palmer is a sixty two year old male presenting with a chief complaint of shortness of breath and fatigue mister palmer states that a couple of weeks ago he was walking with his friends and had shortness of breath palpitations wheezing lightheadedness and feelings of painting that continue to occur when exercising he states symptoms go away at rest patient has history of hypertension for which he takes lisinopril ten milligrams every day and family history of sudden death with his mother and his father had a heart attack at sixty nine years old patient also has history of cardiac catheterization but no other surgeries or procedures patient vitals were normal with oxygen of ninety six percent and respiratory rate of sixteen except for elevated heart rate at one hundred ten beats per minute and blood pressure of one thirty over ninety patient is a math teacher living with his husband and follows a balanced diet with a cup of coffee a day and does not drink or smoke patient is unable to exercise due to symptoms patient had fatigue wheezing presyncope but no chest muscle or joint pain patient does not have orthopnea fever chills weight changes gait changes headaches stiffness dysphasia confusion dizziness vision changes or hearing loss patient's physical exam showed pmi displaced laterally no chest wall tenderness positive jugular vein distension rails wheezing no cough regular rate no regurg murmurs or gallops patient had positive pedal pulses and pedal edema and nontender cap patient's osteopathic screening exam displayed no chart changes and no chapman points were tender patient's chest x-ray showed cardiomegaly ekg displayed sinus rhythm normal axis left ventricular voltage criteria tall r wave and septal leads echo showed hypertrophic cardiomyopathy with left ventricle asymmetric in and increased intervention intraventricular septum hypertrophy and injection fraction of sixty percent labs of troponin and bnp were within normal limits patient was informed of his diagnosis of familial hypertrophic cardiomyopathy in new york heart association class two heart failure and informed of admission to telemetry discontinuation of lisinopril starting of disopuramide one hundred milligrams patient was referred to interventional cardiology for aicd placement and cardiac surgeon for septomyectomy and alcohol injection patient is to exercise as tolerated follow regular diet have oxygen cannula maintain oxygen above ninety six percent given dvt prophylaxis use daily weight strict input output and vitals checked every two hours patient had no additional questions and has support from husband okay",
+                        "confidence": 0.9992429,
+                        "words": [
+                            {
+                                "word": "mister",
+                                "start": 0.56,
+                                "end": 0.96,
+                                "confidence": 0.9975309
+                            },
+                            {
+                                "word": "palmer",
+                                "start": 0.96,
+                                "end": 1.46,
+                                "confidence": 0.99935716
+                            },
+                            {
+                                "word": "is",
+                                "start": 1.5999999,
+                                "end": 1.92,
+                                "confidence": 0.99973863
+                            },
+                            {
+                                "word": "a",
+                                "start": 1.92,
+                                "end": 2.24,
+                                "confidence": 0.99974936
+                            },
+                            {
+                                "word": "sixty",
+                                "start": 2.24,
+                                "end": 2.6399999,
+                                "confidence": 0.99920636
+                            },
+                            {
+                                "word": "two",
+                                "start": 2.6399999,
+                                "end": 2.8,
+                                "confidence": 0.99905413
+                            },
+                            {
+                                "word": "year",
+                                "start": 2.8,
+                                "end": 2.96,
+                                "confidence": 0.87494975
+                            },
+                            {
+                                "word": "old",
+                                "start": 2.96,
+                                "end": 3.1999998,
+                                "confidence": 0.99989283
+                            },
+                            {
+                                "word": "male",
+                                "start": 3.1999998,
+                                "end": 3.6999998,
+                                "confidence": 0.9996164
+                            },
+                            {
+                                "word": "presenting",
+                                "start": 4.56,
+                                "end": 5.06,
+                                "confidence": 0.89178675
+                            },
+                            {
+                                "word": "with",
+                                "start": 5.12,
+                                "end": 5.3599997,
+                                "confidence": 0.9998517
+                            },
+                            {
+                                "word": "a",
+                                "start": 5.3599997,
+                                "end": 5.68,
+                                "confidence": 0.9979206
+                            },
+                            {
+                                "word": "chief",
+                                "start": 5.68,
+                                "end": 6.08,
+                                "confidence": 0.99532086
+                            },
+                            {
+                                "word": "complaint",
+                                "start": 6.08,
+                                "end": 6.58,
+                                "confidence": 0.99935156
+                            },
+                            {
+                                "word": "of",
+                                "start": 6.7999997,
+                                "end": 6.96,
+                                "confidence": 0.9995167
+                            },
+                            {
+                                "word": "shortness",
+                                "start": 6.96,
+                                "end": 7.44,
+                                "confidence": 0.999846
+                            },
+                            {
+                                "word": "of",
+                                "start": 7.44,
+                                "end": 7.68,
+                                "confidence": 0.9995915
+                            },
+                            {
+                                "word": "breath",
+                                "start": 7.68,
+                                "end": 8.16,
+                                "confidence": 0.9993474
+                            },
+                            {
+                                "word": "and",
+                                "start": 8.16,
+                                "end": 8.48,
+                                "confidence": 0.99950075
+                            },
+                            {
+                                "word": "fatigue",
+                                "start": 8.48,
+                                "end": 8.98,
+                                "confidence": 0.9998412
+                            },
+                            {
+                                "word": "mister",
+                                "start": 9.84,
+                                "end": 10.16,
+                                "confidence": 0.99851316
+                            },
+                            {
+                                "word": "palmer",
+                                "start": 10.16,
+                                "end": 10.66,
+                                "confidence": 0.9999393
+                            },
+                            {
+                                "word": "states",
+                                "start": 10.719999,
+                                "end": 11.219999,
+                                "confidence": 0.9994597
+                            },
+                            {
+                                "word": "that",
+                                "start": 11.599999,
+                                "end": 11.92,
+                                "confidence": 0.99865985
+                            },
+                            {
+                                "word": "a",
+                                "start": 11.92,
+                                "end": 12.0,
+                                "confidence": 0.9952526
+                            },
+                            {
+                                "word": "couple",
+                                "start": 12.0,
+                                "end": 12.4,
+                                "confidence": 0.9999715
+                            },
+                            {
+                                "word": "of",
+                                "start": 12.4,
+                                "end": 12.559999,
+                                "confidence": 0.99961215
+                            },
+                            {
+                                "word": "weeks",
+                                "start": 12.559999,
+                                "end": 12.799999,
+                                "confidence": 0.99997485
+                            },
+                            {
+                                "word": "ago",
+                                "start": 12.799999,
+                                "end": 13.299999,
+                                "confidence": 0.978791
+                            },
+                            {
+                                "word": "he",
+                                "start": 13.44,
+                                "end": 13.599999,
+                                "confidence": 0.99974006
+                            },
+                            {
+                                "word": "was",
+                                "start": 13.599999,
+                                "end": 13.84,
+                                "confidence": 0.9998981
+                            },
+                            {
+                                "word": "walking",
+                                "start": 13.84,
+                                "end": 14.24,
+                                "confidence": 0.9999199
+                            },
+                            {
+                                "word": "with",
+                                "start": 14.24,
+                                "end": 14.4,
+                                "confidence": 0.9998404
+                            },
+                            {
+                                "word": "his",
+                                "start": 14.4,
+                                "end": 14.639999,
+                                "confidence": 0.99942124
+                            },
+                            {
+                                "word": "friends",
+                                "start": 14.639999,
+                                "end": 15.139999,
+                                "confidence": 0.99897385
+                            },
+                            {
+                                "word": "and",
+                                "start": 15.6449995,
+                                "end": 15.884999,
+                                "confidence": 0.999961
+                            },
+                            {
+                                "word": "had",
+                                "start": 15.884999,
+                                "end": 16.125,
+                                "confidence": 0.99986887
+                            },
+                            {
+                                "word": "shortness",
+                                "start": 16.125,
+                                "end": 16.605,
+                                "confidence": 0.9998795
+                            },
+                            {
+                                "word": "of",
+                                "start": 16.605,
+                                "end": 16.765,
+                                "confidence": 0.9998728
+                            },
+                            {
+                                "word": "breath",
+                                "start": 16.765,
+                                "end": 17.265,
+                                "confidence": 0.9987093
+                            },
+                            {
+                                "word": "palpitations",
+                                "start": 17.404999,
+                                "end": 17.904999,
+                                "confidence": 0.9998977
+                            },
+                            {
+                                "word": "wheezing",
+                                "start": 19.164999,
+                                "end": 19.664999,
+                                "confidence": 0.99988717
+                            },
+                            {
+                                "word": "lightheadedness",
+                                "start": 20.045,
+                                "end": 20.545,
+                                "confidence": 0.9146496
+                            },
+                            {
+                                "word": "and",
+                                "start": 21.485,
+                                "end": 21.805,
+                                "confidence": 0.999747
+                            },
+                            {
+                                "word": "feelings",
+                                "start": 21.805,
+                                "end": 22.205,
+                                "confidence": 0.9987141
+                            },
+                            {
+                                "word": "of",
+                                "start": 22.205,
+                                "end": 22.445,
+                                "confidence": 0.99835545
+                            },
+                            {
+                                "word": "painting",
+                                "start": 22.445,
+                                "end": 22.925,
+                                "confidence": 0.7475064
+                            },
+                            {
+                                "word": "that",
+                                "start": 22.925,
+                                "end": 23.244999,
+                                "confidence": 0.9993906
+                            },
+                            {
+                                "word": "continue",
+                                "start": 23.244999,
+                                "end": 23.744999,
+                                "confidence": 0.9967617
+                            },
+                            {
+                                "word": "to",
+                                "start": 24.845,
+                                "end": 25.085,
+                                "confidence": 0.999928
+                            },
+                            {
+                                "word": "occur",
+                                "start": 25.085,
+                                "end": 25.404999,
+                                "confidence": 0.99988174
+                            },
+                            {
+                                "word": "when",
+                                "start": 25.404999,
+                                "end": 25.724998,
+                                "confidence": 0.99924856
+                            },
+                            {
+                                "word": "exercising",
+                                "start": 25.724998,
+                                "end": 26.224998,
+                                "confidence": 0.99911463
+                            },
+                            {
+                                "word": "he",
+                                "start": 28.365,
+                                "end": 28.525,
+                                "confidence": 0.99794656
+                            },
+                            {
+                                "word": "states",
+                                "start": 28.525,
+                                "end": 28.925,
+                                "confidence": 0.97928965
+                            },
+                            {
+                                "word": "symptoms",
+                                "start": 28.925,
+                                "end": 29.404999,
+                                "confidence": 0.9588956
+                            },
+                            {
+                                "word": "go",
+                                "start": 29.404999,
+                                "end": 29.645,
+                                "confidence": 0.99922895
+                            },
+                            {
+                                "word": "away",
+                                "start": 29.645,
+                                "end": 30.044998,
+                                "confidence": 0.99954224
+                            },
+                            {
+                                "word": "at",
+                                "start": 30.044998,
+                                "end": 30.285,
+                                "confidence": 0.9998374
+                            },
+                            {
+                                "word": "rest",
+                                "start": 30.285,
+                                "end": 30.785,
+                                "confidence": 0.9996817
+                            },
+                            {
+                                "word": "patient",
+                                "start": 32.36,
+                                "end": 32.84,
+                                "confidence": 0.9999645
+                            },
+                            {
+                                "word": "has",
+                                "start": 32.84,
+                                "end": 33.16,
+                                "confidence": 0.9999708
+                            },
+                            {
+                                "word": "history",
+                                "start": 33.16,
+                                "end": 33.66,
+                                "confidence": 0.99829715
+                            },
+                            {
+                                "word": "of",
+                                "start": 33.8,
+                                "end": 34.2,
+                                "confidence": 0.99972445
+                            },
+                            {
+                                "word": "hypertension",
+                                "start": 34.2,
+                                "end": 34.7,
+                                "confidence": 0.99955875
+                            },
+                            {
+                                "word": "for",
+                                "start": 35.48,
+                                "end": 35.72,
+                                "confidence": 0.80997425
+                            },
+                            {
+                                "word": "which",
+                                "start": 35.72,
+                                "end": 36.04,
+                                "confidence": 0.9998692
+                            },
+                            {
+                                "word": "he",
+                                "start": 36.04,
+                                "end": 36.44,
+                                "confidence": 0.9996952
+                            },
+                            {
+                                "word": "takes",
+                                "start": 36.44,
+                                "end": 36.94,
+                                "confidence": 0.9938146
+                            },
+                            {
+                                "word": "lisinopril",
+                                "start": 37.0,
+                                "end": 37.5,
+                                "confidence": 0.98926485
+                            },
+                            {
+                                "word": "ten",
+                                "start": 37.8,
+                                "end": 38.04,
+                                "confidence": 0.9919996
+                            },
+                            {
+                                "word": "milligrams",
+                                "start": 38.04,
+                                "end": 38.54,
+                                "confidence": 0.9993205
+                            },
+                            {
+                                "word": "every",
+                                "start": 38.84,
+                                "end": 39.0,
+                                "confidence": 0.93948203
+                            },
+                            {
+                                "word": "day",
+                                "start": 39.0,
+                                "end": 39.5,
+                                "confidence": 0.9995833
+                            },
+                            {
+                                "word": "and",
+                                "start": 40.36,
+                                "end": 40.76,
+                                "confidence": 0.47686476
+                            },
+                            {
+                                "word": "family",
+                                "start": 40.76,
+                                "end": 41.08,
+                                "confidence": 0.9998454
+                            },
+                            {
+                                "word": "history",
+                                "start": 41.08,
+                                "end": 41.559998,
+                                "confidence": 0.999992
+                            },
+                            {
+                                "word": "of",
+                                "start": 41.559998,
+                                "end": 41.72,
+                                "confidence": 0.9999484
+                            },
+                            {
+                                "word": "sudden",
+                                "start": 41.72,
+                                "end": 42.2,
+                                "confidence": 0.9997192
+                            },
+                            {
+                                "word": "death",
+                                "start": 42.2,
+                                "end": 42.68,
+                                "confidence": 0.9999677
+                            },
+                            {
+                                "word": "with",
+                                "start": 42.68,
+                                "end": 43.0,
+                                "confidence": 0.9997547
+                            },
+                            {
+                                "word": "his",
+                                "start": 43.0,
+                                "end": 43.239998,
+                                "confidence": 0.999843
+                            },
+                            {
+                                "word": "mother",
+                                "start": 43.239998,
+                                "end": 43.739998,
+                                "confidence": 0.80600643
+                            },
+                            {
+                                "word": "and",
+                                "start": 44.165,
+                                "end": 44.325,
+                                "confidence": 0.9994904
+                            },
+                            {
+                                "word": "his",
+                                "start": 44.325,
+                                "end": 44.645,
+                                "confidence": 0.9998368
+                            },
+                            {
+                                "word": "father",
+                                "start": 44.645,
+                                "end": 44.965,
+                                "confidence": 0.9999896
+                            },
+                            {
+                                "word": "had",
+                                "start": 44.965,
+                                "end": 45.125,
+                                "confidence": 0.99985933
+                            },
+                            {
+                                "word": "a",
+                                "start": 45.125,
+                                "end": 45.285,
+                                "confidence": 0.9952821
+                            },
+                            {
+                                "word": "heart",
+                                "start": 45.285,
+                                "end": 45.445,
+                                "confidence": 0.99996686
+                            },
+                            {
+                                "word": "attack",
+                                "start": 45.445,
+                                "end": 45.945,
+                                "confidence": 0.99994993
+                            },
+                            {
+                                "word": "at",
+                                "start": 46.005,
+                                "end": 46.325,
+                                "confidence": 0.99987483
+                            },
+                            {
+                                "word": "sixty",
+                                "start": 46.325,
+                                "end": 46.725002,
+                                "confidence": 0.99946743
+                            },
+                            {
+                                "word": "nine",
+                                "start": 46.725002,
+                                "end": 47.045002,
+                                "confidence": 0.99986935
+                            },
+                            {
+                                "word": "years",
+                                "start": 47.045002,
+                                "end": 47.445,
+                                "confidence": 0.9999503
+                            },
+                            {
+                                "word": "old",
+                                "start": 47.445,
+                                "end": 47.945,
+                                "confidence": 0.9998966
+                            },
+                            {
+                                "word": "patient",
+                                "start": 49.205,
+                                "end": 49.685,
+                                "confidence": 0.9999182
+                            },
+                            {
+                                "word": "also",
+                                "start": 49.685,
+                                "end": 50.005,
+                                "confidence": 0.99990404
+                            },
+                            {
+                                "word": "has",
+                                "start": 50.005,
+                                "end": 50.325,
+                                "confidence": 0.9998915
+                            },
+                            {
+                                "word": "history",
+                                "start": 50.325,
+                                "end": 50.805,
+                                "confidence": 0.99196
+                            },
+                            {
+                                "word": "of",
+                                "start": 50.805,
+                                "end": 51.285,
+                                "confidence": 0.99972147
+                            },
+                            {
+                                "word": "cardiac",
+                                "start": 51.285,
+                                "end": 51.785,
+                                "confidence": 0.99995303
+                            },
+                            {
+                                "word": "catheterization",
+                                "start": 51.845,
+                                "end": 52.345,
+                                "confidence": 0.9789643
+                            },
+                            {
+                                "word": "but",
+                                "start": 53.525,
+                                "end": 53.845,
+                                "confidence": 0.99949276
+                            },
+                            {
+                                "word": "no",
+                                "start": 53.845,
+                                "end": 54.085,
+                                "confidence": 0.9999013
+                            },
+                            {
+                                "word": "other",
+                                "start": 54.085,
+                                "end": 54.405,
+                                "confidence": 0.999961
+                            },
+                            {
+                                "word": "surgeries",
+                                "start": 54.405,
+                                "end": 54.885002,
+                                "confidence": 0.99995697
+                            },
+                            {
+                                "word": "or",
+                                "start": 54.885002,
+                                "end": 55.205,
+                                "confidence": 0.99959654
+                            },
+                            {
+                                "word": "procedures",
+                                "start": 55.205,
+                                "end": 55.705,
+                                "confidence": 0.9998896
+                            },
+                            {
+                                "word": "patient",
+                                "start": 56.670002,
+                                "end": 57.15,
+                                "confidence": 0.99996173
+                            },
+                            {
+                                "word": "vitals",
+                                "start": 57.15,
+                                "end": 57.63,
+                                "confidence": 0.99978554
+                            },
+                            {
+                                "word": "were",
+                                "start": 57.63,
+                                "end": 57.79,
+                                "confidence": 0.9974638
+                            },
+                            {
+                                "word": "normal",
+                                "start": 57.79,
+                                "end": 58.29,
+                                "confidence": 0.9999423
+                            },
+                            {
+                                "word": "with",
+                                "start": 58.510002,
+                                "end": 59.010002,
+                                "confidence": 0.9924212
+                            },
+                            {
+                                "word": "oxygen",
+                                "start": 59.31,
+                                "end": 59.79,
+                                "confidence": 0.9996099
+                            },
+                            {
+                                "word": "of",
+                                "start": 59.79,
+                                "end": 59.95,
+                                "confidence": 0.98294467
+                            },
+                            {
+                                "word": "ninety",
+                                "start": 59.95,
+                                "end": 60.27,
+                                "confidence": 0.9995989
+                            },
+                            {
+                                "word": "six",
+                                "start": 60.27,
+                                "end": 60.59,
+                                "confidence": 0.99987113
+                            },
+                            {
+                                "word": "percent",
+                                "start": 60.59,
+                                "end": 61.07,
+                                "confidence": 0.99961495
+                            },
+                            {
+                                "word": "and",
+                                "start": 61.07,
+                                "end": 61.39,
+                                "confidence": 0.9880035
+                            },
+                            {
+                                "word": "respiratory",
+                                "start": 61.39,
+                                "end": 61.89,
+                                "confidence": 0.9998579
+                            },
+                            {
+                                "word": "rate",
+                                "start": 61.95,
+                                "end": 62.19,
+                                "confidence": 0.9995585
+                            },
+                            {
+                                "word": "of",
+                                "start": 62.19,
+                                "end": 62.43,
+                                "confidence": 0.9997242
+                            },
+                            {
+                                "word": "sixteen",
+                                "start": 62.43,
+                                "end": 62.93,
+                                "confidence": 0.7871927
+                            },
+                            {
+                                "word": "except",
+                                "start": 63.71,
+                                "end": 64.03,
+                                "confidence": 0.99945337
+                            },
+                            {
+                                "word": "for",
+                                "start": 64.03,
+                                "end": 64.35,
+                                "confidence": 0.9996094
+                            },
+                            {
+                                "word": "elevated",
+                                "start": 64.35,
+                                "end": 64.85,
+                                "confidence": 0.9995235
+                            },
+                            {
+                                "word": "heart",
+                                "start": 64.91,
+                                "end": 65.23,
+                                "confidence": 0.9998691
+                            },
+                            {
+                                "word": "rate",
+                                "start": 65.23,
+                                "end": 65.55,
+                                "confidence": 0.9998609
+                            },
+                            {
+                                "word": "at",
+                                "start": 65.55,
+                                "end": 65.79,
+                                "confidence": 0.9993284
+                            },
+                            {
+                                "word": "one",
+                                "start": 65.79,
+                                "end": 65.95,
+                                "confidence": 0.99977916
+                            },
+                            {
+                                "word": "hundred",
+                                "start": 65.95,
+                                "end": 66.43,
+                                "confidence": 0.9999225
+                            },
+                            {
+                                "word": "ten",
+                                "start": 66.43,
+                                "end": 66.83,
+                                "confidence": 0.99370354
+                            },
+                            {
+                                "word": "beats",
+                                "start": 66.83,
+                                "end": 67.15,
+                                "confidence": 0.9997348
+                            },
+                            {
+                                "word": "per",
+                                "start": 67.15,
+                                "end": 67.39,
+                                "confidence": 0.99990916
+                            },
+                            {
+                                "word": "minute",
+                                "start": 67.39,
+                                "end": 67.89,
+                                "confidence": 0.9997588
+                            },
+                            {
+                                "word": "and",
+                                "start": 68.270004,
+                                "end": 68.59,
+                                "confidence": 0.8967051
+                            },
+                            {
+                                "word": "blood",
+                                "start": 68.59,
+                                "end": 68.83,
+                                "confidence": 0.9999181
+                            },
+                            {
+                                "word": "pressure",
+                                "start": 68.83,
+                                "end": 69.229996,
+                                "confidence": 0.999962
+                            },
+                            {
+                                "word": "of",
+                                "start": 69.229996,
+                                "end": 69.39,
+                                "confidence": 0.9993186
+                            },
+                            {
+                                "word": "one",
+                                "start": 69.39,
+                                "end": 69.71,
+                                "confidence": 0.9999132
+                            },
+                            {
+                                "word": "thirty",
+                                "start": 69.71,
+                                "end": 70.11,
+                                "confidence": 0.9953584
+                            },
+                            {
+                                "word": "over",
+                                "start": 70.11,
+                                "end": 70.43,
+                                "confidence": 0.9990889
+                            },
+                            {
+                                "word": "ninety",
+                                "start": 70.43,
+                                "end": 70.93,
+                                "confidence": 0.9998628
+                            },
+                            {
+                                "word": "patient",
+                                "start": 72.795,
+                                "end": 73.275,
+                                "confidence": 0.9999752
+                            },
+                            {
+                                "word": "is",
+                                "start": 73.275,
+                                "end": 73.515,
+                                "confidence": 0.99996936
+                            },
+                            {
+                                "word": "a",
+                                "start": 73.515,
+                                "end": 73.674995,
+                                "confidence": 0.99993026
+                            },
+                            {
+                                "word": "math",
+                                "start": 73.674995,
+                                "end": 73.994995,
+                                "confidence": 0.9997435
+                            },
+                            {
+                                "word": "teacher",
+                                "start": 73.994995,
+                                "end": 74.475,
+                                "confidence": 0.99985147
+                            },
+                            {
+                                "word": "living",
+                                "start": 74.475,
+                                "end": 74.795,
+                                "confidence": 0.981323
+                            },
+                            {
+                                "word": "with",
+                                "start": 74.795,
+                                "end": 75.034996,
+                                "confidence": 0.9999474
+                            },
+                            {
+                                "word": "his",
+                                "start": 75.034996,
+                                "end": 75.275,
+                                "confidence": 0.99992573
+                            },
+                            {
+                                "word": "husband",
+                                "start": 75.275,
+                                "end": 75.775,
+                                "confidence": 0.99990284
+                            },
+                            {
+                                "word": "and",
+                                "start": 76.075,
+                                "end": 76.315,
+                                "confidence": 0.97502655
+                            },
+                            {
+                                "word": "follows",
+                                "start": 76.315,
+                                "end": 76.715,
+                                "confidence": 0.99993706
+                            },
+                            {
+                                "word": "a",
+                                "start": 76.715,
+                                "end": 76.955,
+                                "confidence": 0.99984777
+                            },
+                            {
+                                "word": "balanced",
+                                "start": 76.955,
+                                "end": 77.455,
+                                "confidence": 0.999585
+                            },
+                            {
+                                "word": "diet",
+                                "start": 77.515,
+                                "end": 78.015,
+                                "confidence": 0.9999585
+                            },
+                            {
+                                "word": "with",
+                                "start": 78.075,
+                                "end": 78.395,
+                                "confidence": 0.99699545
+                            },
+                            {
+                                "word": "a",
+                                "start": 78.395,
+                                "end": 78.635,
+                                "confidence": 0.99992514
+                            },
+                            {
+                                "word": "cup",
+                                "start": 78.635,
+                                "end": 78.875,
+                                "confidence": 0.9999294
+                            },
+                            {
+                                "word": "of",
+                                "start": 78.875,
+                                "end": 79.034996,
+                                "confidence": 0.9997234
+                            },
+                            {
+                                "word": "coffee",
+                                "start": 79.034996,
+                                "end": 79.435,
+                                "confidence": 0.99996436
+                            },
+                            {
+                                "word": "a",
+                                "start": 79.435,
+                                "end": 79.515,
+                                "confidence": 0.99169004
+                            },
+                            {
+                                "word": "day",
+                                "start": 79.515,
+                                "end": 79.835,
+                                "confidence": 0.9999939
+                            },
+                            {
+                                "word": "and",
+                                "start": 79.835,
+                                "end": 80.075,
+                                "confidence": 0.9770364
+                            },
+                            {
+                                "word": "does",
+                                "start": 80.075,
+                                "end": 80.235,
+                                "confidence": 0.9999436
+                            },
+                            {
+                                "word": "not",
+                                "start": 80.235,
+                                "end": 80.475,
+                                "confidence": 0.9999913
+                            },
+                            {
+                                "word": "drink",
+                                "start": 80.475,
+                                "end": 80.715,
+                                "confidence": 0.9999908
+                            },
+                            {
+                                "word": "or",
+                                "start": 80.715,
+                                "end": 81.034996,
+                                "confidence": 0.99983394
+                            },
+                            {
+                                "word": "smoke",
+                                "start": 81.034996,
+                                "end": 81.534996,
+                                "confidence": 0.9998066
+                            },
+                            {
+                                "word": "patient",
+                                "start": 82.555,
+                                "end": 82.955,
+                                "confidence": 0.9999312
+                            },
+                            {
+                                "word": "is",
+                                "start": 82.955,
+                                "end": 83.195,
+                                "confidence": 0.9999467
+                            },
+                            {
+                                "word": "unable",
+                                "start": 83.195,
+                                "end": 83.675,
+                                "confidence": 0.9999827
+                            },
+                            {
+                                "word": "to",
+                                "start": 83.675,
+                                "end": 83.835,
+                                "confidence": 0.99987257
+                            },
+                            {
+                                "word": "exercise",
+                                "start": 83.835,
+                                "end": 84.335,
+                                "confidence": 0.9999616
+                            },
+                            {
+                                "word": "due",
+                                "start": 84.555,
+                                "end": 84.875,
+                                "confidence": 0.9998443
+                            },
+                            {
+                                "word": "to",
+                                "start": 84.875,
+                                "end": 85.034996,
+                                "confidence": 0.9981445
+                            },
+                            {
+                                "word": "symptoms",
+                                "start": 85.034996,
+                                "end": 85.534996,
+                                "confidence": 0.9990672
+                            },
+                            {
+                                "word": "patient",
+                                "start": 86.71,
+                                "end": 87.19,
+                                "confidence": 0.99869186
+                            },
+                            {
+                                "word": "had",
+                                "start": 87.19,
+                                "end": 87.67,
+                                "confidence": 0.9991053
+                            },
+                            {
+                                "word": "fatigue",
+                                "start": 87.67,
+                                "end": 88.17,
+                                "confidence": 0.99959326
+                            },
+                            {
+                                "word": "wheezing",
+                                "start": 88.39,
+                                "end": 88.89,
+                                "confidence": 0.99978566
+                            },
+                            {
+                                "word": "presyncope",
+                                "start": 89.43,
+                                "end": 89.93,
+                                "confidence": 0.8826922
+                            },
+                            {
+                                "word": "but",
+                                "start": 90.95,
+                                "end": 91.19,
+                                "confidence": 0.99866486
+                            },
+                            {
+                                "word": "no",
+                                "start": 91.19,
+                                "end": 91.59,
+                                "confidence": 0.9988927
+                            },
+                            {
+                                "word": "chest",
+                                "start": 91.59,
+                                "end": 92.07,
+                                "confidence": 0.77404326
+                            },
+                            {
+                                "word": "muscle",
+                                "start": 92.07,
+                                "end": 92.57,
+                                "confidence": 0.9749768
+                            },
+                            {
+                                "word": "or",
+                                "start": 93.11,
+                                "end": 93.35,
+                                "confidence": 0.999689
+                            },
+                            {
+                                "word": "joint",
+                                "start": 93.35,
+                                "end": 93.75,
+                                "confidence": 0.99982387
+                            },
+                            {
+                                "word": "pain",
+                                "start": 93.75,
+                                "end": 94.25,
+                                "confidence": 0.99961996
+                            },
+                            {
+                                "word": "patient",
+                                "start": 94.87,
+                                "end": 95.35,
+                                "confidence": 0.9999167
+                            },
+                            {
+                                "word": "does",
+                                "start": 95.35,
+                                "end": 95.51,
+                                "confidence": 0.99992466
+                            },
+                            {
+                                "word": "not",
+                                "start": 95.51,
+                                "end": 95.75,
+                                "confidence": 0.9999726
+                            },
+                            {
+                                "word": "have",
+                                "start": 95.75,
+                                "end": 96.07,
+                                "confidence": 0.99996185
+                            },
+                            {
+                                "word": "orthopnea",
+                                "start": 96.07,
+                                "end": 96.57,
+                                "confidence": 0.8860231
+                            },
+                            {
+                                "word": "fever",
+                                "start": 97.43,
+                                "end": 97.93,
+                                "confidence": 0.9998262
+                            },
+                            {
+                                "word": "chills",
+                                "start": 98.15,
+                                "end": 98.65,
+                                "confidence": 0.9998978
+                            },
+                            {
+                                "word": "weight",
+                                "start": 99.185,
+                                "end": 99.345,
+                                "confidence": 0.99986565
+                            },
+                            {
+                                "word": "changes",
+                                "start": 99.345,
+                                "end": 99.845,
+                                "confidence": 0.9997748
+                            },
+                            {
+                                "word": "gait",
+                                "start": 100.064995,
+                                "end": 100.384995,
+                                "confidence": 0.98285365
+                            },
+                            {
+                                "word": "changes",
+                                "start": 100.384995,
+                                "end": 100.884995,
+                                "confidence": 0.99963355
+                            },
+                            {
+                                "word": "headaches",
+                                "start": 101.424995,
+                                "end": 101.924995,
+                                "confidence": 0.9559219
+                            },
+                            {
+                                "word": "stiffness",
+                                "start": 102.064995,
+                                "end": 102.564995,
+                                "confidence": 0.9973054
+                            },
+                            {
+                                "word": "dysphasia",
+                                "start": 102.865,
+                                "end": 103.365,
+                                "confidence": 0.9218029
+                            },
+                            {
+                                "word": "confusion",
+                                "start": 103.985,
+                                "end": 104.485,
+                                "confidence": 0.9997994
+                            },
+                            {
+                                "word": "dizziness",
+                                "start": 104.945,
+                                "end": 105.445,
+                                "confidence": 0.99993485
+                            },
+                            {
+                                "word": "vision",
+                                "start": 105.905,
+                                "end": 106.305,
+                                "confidence": 0.9997321
+                            },
+                            {
+                                "word": "changes",
+                                "start": 106.305,
+                                "end": 106.784996,
+                                "confidence": 0.98170567
+                            },
+                            {
+                                "word": "or",
+                                "start": 106.784996,
+                                "end": 107.024994,
+                                "confidence": 0.99991846
+                            },
+                            {
+                                "word": "hearing",
+                                "start": 107.024994,
+                                "end": 107.424995,
+                                "confidence": 0.9999796
+                            },
+                            {
+                                "word": "loss",
+                                "start": 107.424995,
+                                "end": 107.924995,
+                                "confidence": 0.99866945
+                            },
+                            {
+                                "word": "patient's",
+                                "start": 108.545,
+                                "end": 109.045,
+                                "confidence": 0.98491013
+                            },
+                            {
+                                "word": "physical",
+                                "start": 109.185,
+                                "end": 109.685,
+                                "confidence": 0.9952595
+                            },
+                            {
+                                "word": "exam",
+                                "start": 110.384995,
+                                "end": 110.865,
+                                "confidence": 0.98759997
+                            },
+                            {
+                                "word": "showed",
+                                "start": 110.865,
+                                "end": 111.185,
+                                "confidence": 0.9977931
+                            },
+                            {
+                                "word": "pmi",
+                                "start": 111.185,
+                                "end": 111.685,
+                                "confidence": 0.9487112
+                            },
+                            {
+                                "word": "displaced",
+                                "start": 111.825,
+                                "end": 112.325,
+                                "confidence": 0.5570981
+                            },
+                            {
+                                "word": "laterally",
+                                "start": 112.384995,
+                                "end": 112.884995,
+                                "confidence": 0.9783344
+                            },
+                            {
+                                "word": "no",
+                                "start": 113.64001,
+                                "end": 113.880005,
+                                "confidence": 0.9986671
+                            },
+                            {
+                                "word": "chest",
+                                "start": 113.880005,
+                                "end": 114.200005,
+                                "confidence": 0.9999249
+                            },
+                            {
+                                "word": "wall",
+                                "start": 114.200005,
+                                "end": 114.44,
+                                "confidence": 0.99919647
+                            },
+                            {
+                                "word": "tenderness",
+                                "start": 114.44,
+                                "end": 114.94,
+                                "confidence": 0.99832565
+                            },
+                            {
+                                "word": "positive",
+                                "start": 115.64001,
+                                "end": 116.12,
+                                "confidence": 0.99864095
+                            },
+                            {
+                                "word": "jugular",
+                                "start": 116.12,
+                                "end": 116.600006,
+                                "confidence": 0.9890348
+                            },
+                            {
+                                "word": "vein",
+                                "start": 116.600006,
+                                "end": 116.920006,
+                                "confidence": 0.99876237
+                            },
+                            {
+                                "word": "distension",
+                                "start": 116.920006,
+                                "end": 117.420006,
+                                "confidence": 0.96857
+                            },
+                            {
+                                "word": "rails",
+                                "start": 118.28001,
+                                "end": 118.78001,
+                                "confidence": 0.944733
+                            },
+                            {
+                                "word": "wheezing",
+                                "start": 119.0,
+                                "end": 119.5,
+                                "confidence": 0.99884486
+                            },
+                            {
+                                "word": "no",
+                                "start": 119.72,
+                                "end": 120.200005,
+                                "confidence": 0.99976176
+                            },
+                            {
+                                "word": "cough",
+                                "start": 120.200005,
+                                "end": 120.600006,
+                                "confidence": 0.9963345
+                            },
+                            {
+                                "word": "regular",
+                                "start": 120.600006,
+                                "end": 121.100006,
+                                "confidence": 0.99915516
+                            },
+                            {
+                                "word": "rate",
+                                "start": 121.16,
+                                "end": 121.64,
+                                "confidence": 0.99563915
+                            },
+                            {
+                                "word": "no",
+                                "start": 121.64,
+                                "end": 122.04,
+                                "confidence": 0.9993025
+                            },
+                            {
+                                "word": "regurg",
+                                "start": 122.04,
+                                "end": 122.520004,
+                                "confidence": 0.690944
+                            },
+                            {
+                                "word": "murmurs",
+                                "start": 122.520004,
+                                "end": 123.020004,
+                                "confidence": 0.97191554
+                            },
+                            {
+                                "word": "or",
+                                "start": 123.16,
+                                "end": 123.32001,
+                                "confidence": 0.9996712
+                            },
+                            {
+                                "word": "gallops",
+                                "start": 123.32001,
+                                "end": 123.82001,
+                                "confidence": 0.98404783
+                            },
+                            {
+                                "word": "patient",
+                                "start": 125.365005,
+                                "end": 125.685005,
+                                "confidence": 0.9999298
+                            },
+                            {
+                                "word": "had",
+                                "start": 125.685005,
+                                "end": 126.185005,
+                                "confidence": 0.9988961
+                            },
+                            {
+                                "word": "positive",
+                                "start": 126.245,
+                                "end": 126.745,
+                                "confidence": 0.99804115
+                            },
+                            {
+                                "word": "pedal",
+                                "start": 127.365005,
+                                "end": 127.765,
+                                "confidence": 0.4811213
+                            },
+                            {
+                                "word": "pulses",
+                                "start": 127.765,
+                                "end": 128.265,
+                                "confidence": 0.9965669
+                            },
+                            {
+                                "word": "and",
+                                "start": 128.325,
+                                "end": 128.565,
+                                "confidence": 0.82280403
+                            },
+                            {
+                                "word": "pedal",
+                                "start": 128.565,
+                                "end": 128.885,
+                                "confidence": 0.9090702
+                            },
+                            {
+                                "word": "edema",
+                                "start": 128.885,
+                                "end": 129.385,
+                                "confidence": 0.9985875
+                            },
+                            {
+                                "word": "and",
+                                "start": 129.765,
+                                "end": 130.005,
+                                "confidence": 0.6826417
+                            },
+                            {
+                                "word": "nontender",
+                                "start": 130.005,
+                                "end": 130.505,
+                                "confidence": 0.8446565
+                            },
+                            {
+                                "word": "cap",
+                                "start": 130.725,
+                                "end": 131.225,
+                                "confidence": 0.6925731
+                            },
+                            {
+                                "word": "patient's",
+                                "start": 132.645,
+                                "end": 133.145,
+                                "confidence": 0.98912346
+                            },
+                            {
+                                "word": "osteopathic",
+                                "start": 133.205,
+                                "end": 133.705,
+                                "confidence": 0.9994803
+                            },
+                            {
+                                "word": "screening",
+                                "start": 133.925,
+                                "end": 134.425,
+                                "confidence": 0.9967603
+                            },
+                            {
+                                "word": "exam",
+                                "start": 134.485,
+                                "end": 134.985,
+                                "confidence": 0.99950266
+                            },
+                            {
+                                "word": "displayed",
+                                "start": 135.365,
+                                "end": 135.865,
+                                "confidence": 0.9935841
+                            },
+                            {
+                                "word": "no",
+                                "start": 135.925,
+                                "end": 136.16501,
+                                "confidence": 0.9991246
+                            },
+                            {
+                                "word": "chart",
+                                "start": 136.16501,
+                                "end": 136.405,
+                                "confidence": 0.9794977
+                            },
+                            {
+                                "word": "changes",
+                                "start": 136.405,
+                                "end": 136.905,
+                                "confidence": 0.999521
+                            },
+                            {
+                                "word": "and",
+                                "start": 136.965,
+                                "end": 137.205,
+                                "confidence": 0.7328358
+                            },
+                            {
+                                "word": "no",
+                                "start": 137.205,
+                                "end": 137.445,
+                                "confidence": 0.99950516
+                            },
+                            {
+                                "word": "chapman",
+                                "start": 137.445,
+                                "end": 137.945,
+                                "confidence": 0.972367
+                            },
+                            {
+                                "word": "points",
+                                "start": 138.005,
+                                "end": 138.405,
+                                "confidence": 0.99228257
+                            },
+                            {
+                                "word": "were",
+                                "start": 138.405,
+                                "end": 138.645,
+                                "confidence": 0.68177396
+                            },
+                            {
+                                "word": "tender",
+                                "start": 138.645,
+                                "end": 139.145,
+                                "confidence": 0.9997753
+                            },
+                            {
+                                "word": "patient's",
+                                "start": 140.29999,
+                                "end": 140.78,
+                                "confidence": 0.9417752
+                            },
+                            {
+                                "word": "chest",
+                                "start": 140.78,
+                                "end": 141.01999,
+                                "confidence": 0.9332391
+                            },
+                            {
+                                "word": "x-ray",
+                                "start": 141.01999,
+                                "end": 141.42,
+                                "confidence": 0.8730884
+                            },
+                            {
+                                "word": "showed",
+                                "start": 141.42,
+                                "end": 141.73999,
+                                "confidence": 0.9994554
+                            },
+                            {
+                                "word": "cardiomegaly",
+                                "start": 141.73999,
+                                "end": 142.23999,
+                                "confidence": 0.92593575
+                            },
+                            {
+                                "word": "ekg",
+                                "start": 142.86,
+                                "end": 143.36,
+                                "confidence": 0.9995351
+                            },
+                            {
+                                "word": "displayed",
+                                "start": 143.42,
+                                "end": 143.9,
+                                "confidence": 0.9918733
+                            },
+                            {
+                                "word": "sinus",
+                                "start": 143.9,
+                                "end": 144.37999,
+                                "confidence": 0.99925053
+                            },
+                            {
+                                "word": "rhythm",
+                                "start": 144.37999,
+                                "end": 144.78,
+                                "confidence": 0.9582275
+                            },
+                            {
+                                "word": "normal",
+                                "start": 144.78,
+                                "end": 145.26,
+                                "confidence": 0.9996082
+                            },
+                            {
+                                "word": "axis",
+                                "start": 145.26,
+                                "end": 145.76,
+                                "confidence": 0.8004557
+                            },
+                            {
+                                "word": "left",
+                                "start": 146.22,
+                                "end": 146.54,
+                                "confidence": 0.9982317
+                            },
+                            {
+                                "word": "ventricular",
+                                "start": 146.54,
+                                "end": 147.04,
+                                "confidence": 0.99986136
+                            },
+                            {
+                                "word": "voltage",
+                                "start": 147.34,
+                                "end": 147.81999,
+                                "confidence": 0.960166
+                            },
+                            {
+                                "word": "criteria",
+                                "start": 147.81999,
+                                "end": 148.31999,
+                                "confidence": 0.9873246
+                            },
+                            {
+                                "word": "tall",
+                                "start": 148.54,
+                                "end": 149.01999,
+                                "confidence": 0.9931064
+                            },
+                            {
+                                "word": "r",
+                                "start": 149.01999,
+                                "end": 149.26,
+                                "confidence": 0.9105385
+                            },
+                            {
+                                "word": "wave",
+                                "start": 149.26,
+                                "end": 149.5,
+                                "confidence": 0.9935866
+                            },
+                            {
+                                "word": "and",
+                                "start": 149.5,
+                                "end": 149.65999,
+                                "confidence": 0.5659165
+                            },
+                            {
+                                "word": "septal",
+                                "start": 149.65999,
+                                "end": 150.14,
+                                "confidence": 0.98293376
+                            },
+                            {
+                                "word": "leads",
+                                "start": 150.14,
+                                "end": 150.64,
+                                "confidence": 0.9895723
+                            },
+                            {
+                                "word": "echo",
+                                "start": 151.57999,
+                                "end": 152.06,
+                                "confidence": 0.90008986
+                            },
+                            {
+                                "word": "showed",
+                                "start": 152.06,
+                                "end": 152.37999,
+                                "confidence": 0.99935955
+                            },
+                            {
+                                "word": "hypertrophic",
+                                "start": 152.37999,
+                                "end": 152.87999,
+                                "confidence": 0.9982827
+                            },
+                            {
+                                "word": "cardiomyopathy",
+                                "start": 153.18,
+                                "end": 153.68,
+                                "confidence": 0.9998394
+                            },
+                            {
+                                "word": "with",
+                                "start": 154.905,
+                                "end": 155.14499,
+                                "confidence": 0.99983704
+                            },
+                            {
+                                "word": "left",
+                                "start": 155.14499,
+                                "end": 155.64499,
+                                "confidence": 0.9996327
+                            },
+                            {
+                                "word": "ventricle",
+                                "start": 155.78499,
+                                "end": 156.28499,
+                                "confidence": 0.9958982
+                            },
+                            {
+                                "word": "asymmetric",
+                                "start": 156.50499,
+                                "end": 157.00499,
+                                "confidence": 0.9979567
+                            },
+                            {
+                                "word": "in",
+                                "start": 157.22499,
+                                "end": 157.72499,
+                                "confidence": 0.71083415
+                            },
+                            {
+                                "word": "and",
+                                "start": 158.665,
+                                "end": 158.905,
+                                "confidence": 0.73626685
+                            },
+                            {
+                                "word": "increased",
+                                "start": 158.905,
+                                "end": 159.305,
+                                "confidence": 0.9480166
+                            },
+                            {
+                                "word": "intervention",
+                                "start": 159.305,
+                                "end": 159.805,
+                                "confidence": 0.6169454
+                            },
+                            {
+                                "word": "intraventricular",
+                                "start": 160.185,
+                                "end": 160.685,
+                                "confidence": 0.93736476
+                            },
+                            {
+                                "word": "septum",
+                                "start": 161.385,
+                                "end": 161.78499,
+                                "confidence": 0.99947566
+                            },
+                            {
+                                "word": "hypertrophy",
+                                "start": 161.78499,
+                                "end": 162.28499,
+                                "confidence": 0.99919415
+                            },
+                            {
+                                "word": "and",
+                                "start": 162.905,
+                                "end": 163.14499,
+                                "confidence": 0.7067533
+                            },
+                            {
+                                "word": "injection",
+                                "start": 163.14499,
+                                "end": 163.545,
+                                "confidence": 0.9166956
+                            },
+                            {
+                                "word": "fraction",
+                                "start": 163.545,
+                                "end": 163.94499,
+                                "confidence": 0.9829389
+                            },
+                            {
+                                "word": "of",
+                                "start": 163.94499,
+                                "end": 164.105,
+                                "confidence": 0.99831057
+                            },
+                            {
+                                "word": "sixty",
+                                "start": 164.105,
+                                "end": 164.50499,
+                                "confidence": 0.9987172
+                            },
+                            {
+                                "word": "percent",
+                                "start": 164.50499,
+                                "end": 165.00499,
+                                "confidence": 0.9986491
+                            },
+                            {
+                                "word": "labs",
+                                "start": 165.625,
+                                "end": 165.94499,
+                                "confidence": 0.9924886
+                            },
+                            {
+                                "word": "of",
+                                "start": 165.94499,
+                                "end": 166.185,
+                                "confidence": 0.9850797
+                            },
+                            {
+                                "word": "troponin",
+                                "start": 166.185,
+                                "end": 166.685,
+                                "confidence": 0.9899042
+                            },
+                            {
+                                "word": "and",
+                                "start": 166.745,
+                                "end": 166.98499,
+                                "confidence": 0.9949778
+                            },
+                            {
+                                "word": "bnp",
+                                "start": 166.98499,
+                                "end": 167.385,
+                                "confidence": 0.9420672
+                            },
+                            {
+                                "word": "were",
+                                "start": 167.385,
+                                "end": 167.625,
+                                "confidence": 0.69822466
+                            },
+                            {
+                                "word": "within",
+                                "start": 167.625,
+                                "end": 167.94499,
+                                "confidence": 0.9998927
+                            },
+                            {
+                                "word": "normal",
+                                "start": 167.94499,
+                                "end": 168.34499,
+                                "confidence": 0.9992836
+                            },
+                            {
+                                "word": "limits",
+                                "start": 168.34499,
+                                "end": 168.84499,
+                                "confidence": 0.99953747
+                            },
+                            {
+                                "word": "patient",
+                                "start": 170.01999,
+                                "end": 170.42,
+                                "confidence": 0.9977143
+                            },
+                            {
+                                "word": "was",
+                                "start": 170.42,
+                                "end": 170.57999,
+                                "confidence": 0.9998963
+                            },
+                            {
+                                "word": "informed",
+                                "start": 170.57999,
+                                "end": 170.9,
+                                "confidence": 0.9998523
+                            },
+                            {
+                                "word": "of",
+                                "start": 170.9,
+                                "end": 171.06,
+                                "confidence": 0.9995421
+                            },
+                            {
+                                "word": "his",
+                                "start": 171.06,
+                                "end": 171.29999,
+                                "confidence": 0.993064
+                            },
+                            {
+                                "word": "diagnosis",
+                                "start": 171.29999,
+                                "end": 171.79999,
+                                "confidence": 0.9988524
+                            },
+                            {
+                                "word": "of",
+                                "start": 172.26,
+                                "end": 172.42,
+                                "confidence": 0.9855847
+                            },
+                            {
+                                "word": "familial",
+                                "start": 172.42,
+                                "end": 172.92,
+                                "confidence": 0.99908257
+                            },
+                            {
+                                "word": "hypertrophic",
+                                "start": 172.98,
+                                "end": 173.48,
+                                "confidence": 0.99819446
+                            },
+                            {
+                                "word": "cardiomyopathy",
+                                "start": 173.7,
+                                "end": 174.2,
+                                "confidence": 0.99863696
+                            },
+                            {
+                                "word": "in",
+                                "start": 174.65999,
+                                "end": 174.9,
+                                "confidence": 0.5038803
+                            },
+                            {
+                                "word": "new",
+                                "start": 174.9,
+                                "end": 174.98,
+                                "confidence": 0.98354554
+                            },
+                            {
+                                "word": "york",
+                                "start": 174.98,
+                                "end": 175.22,
+                                "confidence": 0.9999573
+                            },
+                            {
+                                "word": "heart",
+                                "start": 175.22,
+                                "end": 175.45999,
+                                "confidence": 0.97324747
+                            },
+                            {
+                                "word": "association",
+                                "start": 175.45999,
+                                "end": 175.95999,
+                                "confidence": 0.9989511
+                            },
+                            {
+                                "word": "class",
+                                "start": 176.26,
+                                "end": 176.73999,
+                                "confidence": 0.9515869
+                            },
+                            {
+                                "word": "two",
+                                "start": 176.73999,
+                                "end": 177.06,
+                                "confidence": 0.99722844
+                            },
+                            {
+                                "word": "heart",
+                                "start": 177.06,
+                                "end": 177.22,
+                                "confidence": 0.97499835
+                            },
+                            {
+                                "word": "failure",
+                                "start": 177.22,
+                                "end": 177.72,
+                                "confidence": 0.999961
+                            },
+                            {
+                                "word": "and",
+                                "start": 178.18,
+                                "end": 178.42,
+                                "confidence": 0.8481292
+                            },
+                            {
+                                "word": "informed",
+                                "start": 178.42,
+                                "end": 178.92,
+                                "confidence": 0.9994752
+                            },
+                            {
+                                "word": "of",
+                                "start": 179.14,
+                                "end": 179.64,
+                                "confidence": 0.99870527
+                            },
+                            {
+                                "word": "admission",
+                                "start": 179.78,
+                                "end": 180.26,
+                                "confidence": 0.96673656
+                            },
+                            {
+                                "word": "to",
+                                "start": 180.26,
+                                "end": 180.5,
+                                "confidence": 0.91927433
+                            },
+                            {
+                                "word": "telemetry",
+                                "start": 180.5,
+                                "end": 181.0,
+                                "confidence": 0.9747071
+                            },
+                            {
+                                "word": "discontinuation",
+                                "start": 181.74501,
+                                "end": 182.24501,
+                                "confidence": 0.9936631
+                            },
+                            {
+                                "word": "of",
+                                "start": 182.785,
+                                "end": 183.105,
+                                "confidence": 0.9984621
+                            },
+                            {
+                                "word": "lisinopril",
+                                "start": 183.105,
+                                "end": 183.605,
+                                "confidence": 0.99722755
+                            },
+                            {
+                                "word": "starting",
+                                "start": 184.465,
+                                "end": 184.865,
+                                "confidence": 0.66277546
+                            },
+                            {
+                                "word": "of",
+                                "start": 184.865,
+                                "end": 185.185,
+                                "confidence": 0.99471104
+                            },
+                            {
+                                "word": "disopuramide",
+                                "start": 185.185,
+                                "end": 185.685,
+                                "confidence": 0.75782365
+                            },
+                            {
+                                "word": "one",
+                                "start": 186.545,
+                                "end": 186.705,
+                                "confidence": 0.64277935
+                            },
+                            {
+                                "word": "hundred",
+                                "start": 186.705,
+                                "end": 187.02501,
+                                "confidence": 0.99993
+                            },
+                            {
+                                "word": "milligrams",
+                                "start": 187.02501,
+                                "end": 187.52501,
+                                "confidence": 0.99973017
+                            },
+                            {
+                                "word": "patient",
+                                "start": 188.865,
+                                "end": 189.185,
+                                "confidence": 0.9998752
+                            },
+                            {
+                                "word": "was",
+                                "start": 189.185,
+                                "end": 189.425,
+                                "confidence": 0.99974746
+                            },
+                            {
+                                "word": "referred",
+                                "start": 189.425,
+                                "end": 189.825,
+                                "confidence": 0.9999807
+                            },
+                            {
+                                "word": "to",
+                                "start": 189.825,
+                                "end": 190.065,
+                                "confidence": 0.99994814
+                            },
+                            {
+                                "word": "interventional",
+                                "start": 190.065,
+                                "end": 190.565,
+                                "confidence": 0.99761254
+                            },
+                            {
+                                "word": "cardiology",
+                                "start": 190.785,
+                                "end": 191.285,
+                                "confidence": 0.99970865
+                            },
+                            {
+                                "word": "for",
+                                "start": 191.66501,
+                                "end": 192.065,
+                                "confidence": 0.9998184
+                            },
+                            {
+                                "word": "aicd",
+                                "start": 192.065,
+                                "end": 192.565,
+                                "confidence": 0.9762842
+                            },
+                            {
+                                "word": "placement",
+                                "start": 192.785,
+                                "end": 193.285,
+                                "confidence": 0.9992279
+                            },
+                            {
+                                "word": "and",
+                                "start": 194.12999,
+                                "end": 194.37,
+                                "confidence": 0.99983954
+                            },
+                            {
+                                "word": "cardiac",
+                                "start": 194.37,
+                                "end": 194.76999,
+                                "confidence": 0.9995901
+                            },
+                            {
+                                "word": "surgeon",
+                                "start": 194.76999,
+                                "end": 195.17,
+                                "confidence": 0.99988997
+                            },
+                            {
+                                "word": "for",
+                                "start": 195.17,
+                                "end": 195.40999,
+                                "confidence": 0.9995447
+                            },
+                            {
+                                "word": "septomyectomy",
+                                "start": 195.40999,
+                                "end": 195.90999,
+                                "confidence": 0.99419117
+                            },
+                            {
+                                "word": "and",
+                                "start": 196.53,
+                                "end": 196.76999,
+                                "confidence": 0.9786089
+                            },
+                            {
+                                "word": "alcohol",
+                                "start": 196.76999,
+                                "end": 197.25,
+                                "confidence": 0.9993869
+                            },
+                            {
+                                "word": "injection",
+                                "start": 197.25,
+                                "end": 197.75,
+                                "confidence": 0.982993
+                            },
+                            {
+                                "word": "patient",
+                                "start": 198.53,
+                                "end": 198.93,
+                                "confidence": 0.9994684
+                            },
+                            {
+                                "word": "is",
+                                "start": 198.93,
+                                "end": 199.17,
+                                "confidence": 0.99979156
+                            },
+                            {
+                                "word": "to",
+                                "start": 199.17,
+                                "end": 199.40999,
+                                "confidence": 0.9999224
+                            },
+                            {
+                                "word": "exercise",
+                                "start": 199.40999,
+                                "end": 199.90999,
+                                "confidence": 0.99994135
+                            },
+                            {
+                                "word": "as",
+                                "start": 200.12999,
+                                "end": 200.53,
+                                "confidence": 0.9997757
+                            },
+                            {
+                                "word": "tolerated",
+                                "start": 200.53,
+                                "end": 201.03,
+                                "confidence": 0.90648353
+                            },
+                            {
+                                "word": "follow",
+                                "start": 203.25,
+                                "end": 203.65,
+                                "confidence": 0.9995552
+                            },
+                            {
+                                "word": "regular",
+                                "start": 203.65,
+                                "end": 204.04999,
+                                "confidence": 0.98553157
+                            },
+                            {
+                                "word": "diet",
+                                "start": 204.04999,
+                                "end": 204.54999,
+                                "confidence": 0.9984467
+                            },
+                            {
+                                "word": "have",
+                                "start": 204.61,
+                                "end": 204.84999,
+                                "confidence": 0.99919075
+                            },
+                            {
+                                "word": "oxygen",
+                                "start": 204.84999,
+                                "end": 205.34999,
+                                "confidence": 0.99960357
+                            },
+                            {
+                                "word": "cannula",
+                                "start": 205.40999,
+                                "end": 205.90999,
+                                "confidence": 0.9943704
+                            },
+                            {
+                                "word": "maintain",
+                                "start": 205.97,
+                                "end": 206.47,
+                                "confidence": 0.97620785
+                            },
+                            {
+                                "word": "oxygen",
+                                "start": 206.53,
+                                "end": 207.01,
+                                "confidence": 0.9992429
+                            },
+                            {
+                                "word": "above",
+                                "start": 207.01,
+                                "end": 207.40999,
+                                "confidence": 0.999171
+                            },
+                            {
+                                "word": "ninety",
+                                "start": 207.40999,
+                                "end": 207.73,
+                                "confidence": 0.9998221
+                            },
+                            {
+                                "word": "six",
+                                "start": 207.73,
+                                "end": 208.12999,
+                                "confidence": 0.99983954
+                            },
+                            {
+                                "word": "percent",
+                                "start": 208.12999,
+                                "end": 208.62999,
+                                "confidence": 0.88439316
+                            },
+                            {
+                                "word": "given",
+                                "start": 209.515,
+                                "end": 209.995,
+                                "confidence": 0.9894365
+                            },
+                            {
+                                "word": "dvt",
+                                "start": 209.995,
+                                "end": 210.495,
+                                "confidence": 0.9570966
+                            },
+                            {
+                                "word": "prophylaxis",
+                                "start": 210.635,
+                                "end": 211.135,
+                                "confidence": 0.9854261
+                            },
+                            {
+                                "word": "use",
+                                "start": 211.755,
+                                "end": 211.995,
+                                "confidence": 0.59229106
+                            },
+                            {
+                                "word": "daily",
+                                "start": 211.995,
+                                "end": 212.395,
+                                "confidence": 0.99972147
+                            },
+                            {
+                                "word": "weight",
+                                "start": 212.395,
+                                "end": 212.795,
+                                "confidence": 0.94340384
+                            },
+                            {
+                                "word": "strict",
+                                "start": 212.795,
+                                "end": 213.115,
+                                "confidence": 0.9995666
+                            },
+                            {
+                                "word": "input",
+                                "start": 213.115,
+                                "end": 213.435,
+                                "confidence": 0.9935313
+                            },
+                            {
+                                "word": "output",
+                                "start": 213.435,
+                                "end": 213.935,
+                                "confidence": 0.8787074
+                            },
+                            {
+                                "word": "and",
+                                "start": 214.235,
+                                "end": 214.555,
+                                "confidence": 0.997698
+                            },
+                            {
+                                "word": "vitals",
+                                "start": 214.555,
+                                "end": 215.035,
+                                "confidence": 0.99910116
+                            },
+                            {
+                                "word": "checked",
+                                "start": 215.035,
+                                "end": 215.435,
+                                "confidence": 0.6932203
+                            },
+                            {
+                                "word": "every",
+                                "start": 215.435,
+                                "end": 215.755,
+                                "confidence": 0.99882346
+                            },
+                            {
+                                "word": "two",
+                                "start": 215.755,
+                                "end": 215.995,
+                                "confidence": 0.9998778
+                            },
+                            {
+                                "word": "hours",
+                                "start": 215.995,
+                                "end": 216.495,
+                                "confidence": 0.9626787
+                            },
+                            {
+                                "word": "patient",
+                                "start": 216.955,
+                                "end": 217.435,
+                                "confidence": 0.9998871
+                            },
+                            {
+                                "word": "had",
+                                "start": 217.435,
+                                "end": 217.675,
+                                "confidence": 0.9964018
+                            },
+                            {
+                                "word": "no",
+                                "start": 217.675,
+                                "end": 217.915,
+                                "confidence": 0.9996424
+                            },
+                            {
+                                "word": "additional",
+                                "start": 217.915,
+                                "end": 218.315,
+                                "confidence": 0.99995506
+                            },
+                            {
+                                "word": "questions",
+                                "start": 218.315,
+                                "end": 218.815,
+                                "confidence": 0.999368
+                            },
+                            {
+                                "word": "and",
+                                "start": 219.195,
+                                "end": 219.355,
+                                "confidence": 0.9692235
+                            },
+                            {
+                                "word": "has",
+                                "start": 219.355,
+                                "end": 219.675,
+                                "confidence": 0.8937052
+                            },
+                            {
+                                "word": "support",
+                                "start": 219.675,
+                                "end": 220.075,
+                                "confidence": 0.9998814
+                            },
+                            {
+                                "word": "from",
+                                "start": 220.075,
+                                "end": 220.315,
+                                "confidence": 0.999943
+                            },
+                            {
+                                "word": "husband",
+                                "start": 220.315,
+                                "end": 220.815,
+                                "confidence": 0.99893
+                            },
+                            {
+                                "word": "okay",
+                                "start": 222.155,
+                                "end": 222.655,
+                                "confidence": 0.9639237
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
