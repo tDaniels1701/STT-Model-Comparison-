@@ -1,0 +1,1596 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "d3c94178-21ad-49b4-9b07-783bfcf832ed",
+        "sha256": "21512f6e9b3304e39c0c3ed218ca00a881355c8772a0b070f964bb14f6dca978",
+        "created": "2024-10-04T12:57:55.813Z",
+        "duration": 85.34,
+        "channels": 1,
+        "models": [
+            "30089e05-99d1-4376-b32e-c263170674af"
+        ],
+        "model_info": {
+            "30089e05-99d1-4376-b32e-c263170674af": {
+                "name": "2-general-nova",
+                "version": "2024-01-09.29447",
+                "arch": "nova-2"
+            }
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Mrs. Palmer is a 62 year old female presenting to the ER with chest palpitations and syncope. The symptoms have been gradually getting worse over the past 2 months and have increased dramatically over the past 3 days. They happen during any activity. The patient presented with an 8 pound weight gain, swollen like syncope, palpitations, coughing, and is currently sleeping in a chair. Her previous medical problems are hypertension, controlled, and pulmonary sarcoidosis. Her current medications are prednisone and Lisinopril with no known drug allergies. She does not use tobacco, illicit drugs, or alcohol. She walks on a daily basis, drink drinks 1 cup of coffee per day, and is an elementary school teacher. Her mother died from a from sudden death at age 40 and father from a myocardial infarction at 59. Her physical exam showed jugular venous distension, wheezing, and s 4 murmur, lower extremity edema. Labs and imaging support the diagnosis of sarcoidosis that has infiltrated the heart muscle. Our plan is to admit to the hospital where she will follow-up with a cardiologist and radiologist for a PET scan. We will up her dose of prednisone to 60 milligrams, add furosemide, and amiodarone. She will continue on her current Lisinopril. Thank you.",
+                        "confidence": 0.99901843,
+                        "words": [
+                            {
+                                "word": "mrs",
+                                "start": 0.24,
+                                "end": 0.56,
+                                "confidence": 0.8955164,
+                                "punctuated_word": "Mrs."
+                            },
+                            {
+                                "word": "palmer",
+                                "start": 0.56,
+                                "end": 0.96,
+                                "confidence": 0.99876887,
+                                "punctuated_word": "Palmer"
+                            },
+                            {
+                                "word": "is",
+                                "start": 0.96,
+                                "end": 1.12,
+                                "confidence": 0.99905235,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "a",
+                                "start": 1.12,
+                                "end": 1.36,
+                                "confidence": 0.9997929,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "62",
+                                "start": 1.36,
+                                "end": 1.76,
+                                "confidence": 0.90627265,
+                                "punctuated_word": "62"
+                            },
+                            {
+                                "word": "year",
+                                "start": 1.76,
+                                "end": 1.92,
+                                "confidence": 0.99873585,
+                                "punctuated_word": "year"
+                            },
+                            {
+                                "word": "old",
+                                "start": 1.92,
+                                "end": 2.08,
+                                "confidence": 0.9994467,
+                                "punctuated_word": "old"
+                            },
+                            {
+                                "word": "female",
+                                "start": 2.08,
+                                "end": 2.48,
+                                "confidence": 0.99947697,
+                                "punctuated_word": "female"
+                            },
+                            {
+                                "word": "presenting",
+                                "start": 2.48,
+                                "end": 2.96,
+                                "confidence": 0.9959336,
+                                "punctuated_word": "presenting"
+                            },
+                            {
+                                "word": "to",
+                                "start": 2.96,
+                                "end": 3.12,
+                                "confidence": 0.9985808,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "the",
+                                "start": 3.12,
+                                "end": 3.36,
+                                "confidence": 0.99979264,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "er",
+                                "start": 3.36,
+                                "end": 3.84,
+                                "confidence": 0.99626654,
+                                "punctuated_word": "ER"
+                            },
+                            {
+                                "word": "with",
+                                "start": 3.84,
+                                "end": 4.16,
+                                "confidence": 0.99911135,
+                                "punctuated_word": "with"
+                            },
+                            {
+                                "word": "chest",
+                                "start": 4.16,
+                                "end": 4.56,
+                                "confidence": 0.99901843,
+                                "punctuated_word": "chest"
+                            },
+                            {
+                                "word": "palpitations",
+                                "start": 4.56,
+                                "end": 5.06,
+                                "confidence": 0.9999659,
+                                "punctuated_word": "palpitations"
+                            },
+                            {
+                                "word": "and",
+                                "start": 5.7599998,
+                                "end": 6.08,
+                                "confidence": 0.9991347,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "syncope",
+                                "start": 6.08,
+                                "end": 6.58,
+                                "confidence": 0.99968845,
+                                "punctuated_word": "syncope."
+                            },
+                            {
+                                "word": "the",
+                                "start": 7.04,
+                                "end": 7.2,
+                                "confidence": 0.98983383,
+                                "punctuated_word": "The"
+                            },
+                            {
+                                "word": "symptoms",
+                                "start": 7.2,
+                                "end": 7.6,
+                                "confidence": 0.99997187,
+                                "punctuated_word": "symptoms"
+                            },
+                            {
+                                "word": "have",
+                                "start": 7.6,
+                                "end": 7.7599998,
+                                "confidence": 0.9992705,
+                                "punctuated_word": "have"
+                            },
+                            {
+                                "word": "been",
+                                "start": 7.7599998,
+                                "end": 7.9199996,
+                                "confidence": 0.9999714,
+                                "punctuated_word": "been"
+                            },
+                            {
+                                "word": "gradually",
+                                "start": 7.9199996,
+                                "end": 8.4,
+                                "confidence": 0.9999788,
+                                "punctuated_word": "gradually"
+                            },
+                            {
+                                "word": "getting",
+                                "start": 8.4,
+                                "end": 8.639999,
+                                "confidence": 0.99993944,
+                                "punctuated_word": "getting"
+                            },
+                            {
+                                "word": "worse",
+                                "start": 8.639999,
+                                "end": 8.96,
+                                "confidence": 0.99884546,
+                                "punctuated_word": "worse"
+                            },
+                            {
+                                "word": "over",
+                                "start": 8.96,
+                                "end": 9.2,
+                                "confidence": 0.99980515,
+                                "punctuated_word": "over"
+                            },
+                            {
+                                "word": "the",
+                                "start": 9.2,
+                                "end": 9.28,
+                                "confidence": 0.9998679,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "past",
+                                "start": 9.28,
+                                "end": 9.599999,
+                                "confidence": 0.9997584,
+                                "punctuated_word": "past"
+                            },
+                            {
+                                "word": "2",
+                                "start": 9.599999,
+                                "end": 9.84,
+                                "confidence": 0.86750317,
+                                "punctuated_word": "2"
+                            },
+                            {
+                                "word": "months",
+                                "start": 9.84,
+                                "end": 10.32,
+                                "confidence": 0.9999356,
+                                "punctuated_word": "months"
+                            },
+                            {
+                                "word": "and",
+                                "start": 10.32,
+                                "end": 10.48,
+                                "confidence": 0.99058986,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "have",
+                                "start": 10.48,
+                                "end": 10.98,
+                                "confidence": 0.99990666,
+                                "punctuated_word": "have"
+                            },
+                            {
+                                "word": "increased",
+                                "start": 11.759999,
+                                "end": 12.259999,
+                                "confidence": 0.99877316,
+                                "punctuated_word": "increased"
+                            },
+                            {
+                                "word": "dramatically",
+                                "start": 12.4,
+                                "end": 12.9,
+                                "confidence": 0.9996087,
+                                "punctuated_word": "dramatically"
+                            },
+                            {
+                                "word": "over",
+                                "start": 12.96,
+                                "end": 13.2,
+                                "confidence": 0.999887,
+                                "punctuated_word": "over"
+                            },
+                            {
+                                "word": "the",
+                                "start": 13.2,
+                                "end": 13.36,
+                                "confidence": 0.999879,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "past",
+                                "start": 13.36,
+                                "end": 13.599999,
+                                "confidence": 0.99977154,
+                                "punctuated_word": "past"
+                            },
+                            {
+                                "word": "3",
+                                "start": 13.599999,
+                                "end": 13.84,
+                                "confidence": 0.97762656,
+                                "punctuated_word": "3"
+                            },
+                            {
+                                "word": "days",
+                                "start": 13.84,
+                                "end": 14.34,
+                                "confidence": 0.99798536,
+                                "punctuated_word": "days."
+                            },
+                            {
+                                "word": "they",
+                                "start": 14.48,
+                                "end": 14.719999,
+                                "confidence": 0.9997056,
+                                "punctuated_word": "They"
+                            },
+                            {
+                                "word": "happen",
+                                "start": 14.719999,
+                                "end": 15.12,
+                                "confidence": 0.6932688,
+                                "punctuated_word": "happen"
+                            },
+                            {
+                                "word": "during",
+                                "start": 15.12,
+                                "end": 15.555,
+                                "confidence": 0.9998568,
+                                "punctuated_word": "during"
+                            },
+                            {
+                                "word": "any",
+                                "start": 15.795,
+                                "end": 16.035,
+                                "confidence": 0.9901045,
+                                "punctuated_word": "any"
+                            },
+                            {
+                                "word": "activity",
+                                "start": 16.035,
+                                "end": 16.535,
+                                "confidence": 0.9968688,
+                                "punctuated_word": "activity."
+                            },
+                            {
+                                "word": "the",
+                                "start": 16.995,
+                                "end": 17.235,
+                                "confidence": 0.9997899,
+                                "punctuated_word": "The"
+                            },
+                            {
+                                "word": "patient",
+                                "start": 17.235,
+                                "end": 17.555,
+                                "confidence": 0.99983966,
+                                "punctuated_word": "patient"
+                            },
+                            {
+                                "word": "presented",
+                                "start": 17.555,
+                                "end": 18.055,
+                                "confidence": 0.99819607,
+                                "punctuated_word": "presented"
+                            },
+                            {
+                                "word": "with",
+                                "start": 18.275,
+                                "end": 18.515,
+                                "confidence": 0.9949321,
+                                "punctuated_word": "with"
+                            },
+                            {
+                                "word": "an",
+                                "start": 18.515,
+                                "end": 18.755001,
+                                "confidence": 0.9986451,
+                                "punctuated_word": "an"
+                            },
+                            {
+                                "word": "8",
+                                "start": 18.755001,
+                                "end": 18.915,
+                                "confidence": 0.9656875,
+                                "punctuated_word": "8"
+                            },
+                            {
+                                "word": "pound",
+                                "start": 18.915,
+                                "end": 19.395,
+                                "confidence": 0.9926703,
+                                "punctuated_word": "pound"
+                            },
+                            {
+                                "word": "weight",
+                                "start": 19.395,
+                                "end": 19.715,
+                                "confidence": 0.9972084,
+                                "punctuated_word": "weight"
+                            },
+                            {
+                                "word": "gain",
+                                "start": 19.715,
+                                "end": 20.215,
+                                "confidence": 0.9680892,
+                                "punctuated_word": "gain,"
+                            },
+                            {
+                                "word": "swollen",
+                                "start": 20.435001,
+                                "end": 20.915,
+                                "confidence": 0.9972414,
+                                "punctuated_word": "swollen"
+                            },
+                            {
+                                "word": "like",
+                                "start": 20.915,
+                                "end": 21.315,
+                                "confidence": 0.94735694,
+                                "punctuated_word": "like"
+                            },
+                            {
+                                "word": "syncope",
+                                "start": 21.315,
+                                "end": 21.815,
+                                "confidence": 0.97678995,
+                                "punctuated_word": "syncope,"
+                            },
+                            {
+                                "word": "palpitations",
+                                "start": 22.035,
+                                "end": 22.535,
+                                "confidence": 0.99919856,
+                                "punctuated_word": "palpitations,"
+                            },
+                            {
+                                "word": "coughing",
+                                "start": 22.915,
+                                "end": 23.395,
+                                "confidence": 0.9958496,
+                                "punctuated_word": "coughing,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 23.395,
+                                "end": 23.635,
+                                "confidence": 0.9998385,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "is",
+                                "start": 23.635,
+                                "end": 23.795,
+                                "confidence": 0.99957675,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "currently",
+                                "start": 23.795,
+                                "end": 24.275002,
+                                "confidence": 0.9999523,
+                                "punctuated_word": "currently"
+                            },
+                            {
+                                "word": "sleeping",
+                                "start": 24.275002,
+                                "end": 24.675,
+                                "confidence": 0.9999448,
+                                "punctuated_word": "sleeping"
+                            },
+                            {
+                                "word": "in",
+                                "start": 24.675,
+                                "end": 24.835,
+                                "confidence": 0.9999105,
+                                "punctuated_word": "in"
+                            },
+                            {
+                                "word": "a",
+                                "start": 24.835,
+                                "end": 24.994999,
+                                "confidence": 0.9975702,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "chair",
+                                "start": 24.994999,
+                                "end": 25.494999,
+                                "confidence": 0.9999182,
+                                "punctuated_word": "chair."
+                            },
+                            {
+                                "word": "her",
+                                "start": 25.795,
+                                "end": 26.035,
+                                "confidence": 0.99963474,
+                                "punctuated_word": "Her"
+                            },
+                            {
+                                "word": "previous",
+                                "start": 26.035,
+                                "end": 26.435001,
+                                "confidence": 0.9999422,
+                                "punctuated_word": "previous"
+                            },
+                            {
+                                "word": "medical",
+                                "start": 26.435001,
+                                "end": 26.835,
+                                "confidence": 0.9998702,
+                                "punctuated_word": "medical"
+                            },
+                            {
+                                "word": "problems",
+                                "start": 26.835,
+                                "end": 27.154999,
+                                "confidence": 0.9999317,
+                                "punctuated_word": "problems"
+                            },
+                            {
+                                "word": "are",
+                                "start": 27.154999,
+                                "end": 27.395,
+                                "confidence": 0.99978477,
+                                "punctuated_word": "are"
+                            },
+                            {
+                                "word": "hypertension",
+                                "start": 27.395,
+                                "end": 27.895,
+                                "confidence": 0.91400373,
+                                "punctuated_word": "hypertension,"
+                            },
+                            {
+                                "word": "controlled",
+                                "start": 28.355,
+                                "end": 28.855,
+                                "confidence": 0.9890573,
+                                "punctuated_word": "controlled,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 29.154999,
+                                "end": 29.395,
+                                "confidence": 0.9997856,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "pulmonary",
+                                "start": 29.395,
+                                "end": 29.895,
+                                "confidence": 0.99911004,
+                                "punctuated_word": "pulmonary"
+                            },
+                            {
+                                "word": "sarcoidosis",
+                                "start": 29.955,
+                                "end": 30.455,
+                                "confidence": 0.999664,
+                                "punctuated_word": "sarcoidosis."
+                            },
+                            {
+                                "word": "her",
+                                "start": 31.289999,
+                                "end": 31.449999,
+                                "confidence": 0.9996543,
+                                "punctuated_word": "Her"
+                            },
+                            {
+                                "word": "current",
+                                "start": 31.449999,
+                                "end": 31.849998,
+                                "confidence": 0.9996947,
+                                "punctuated_word": "current"
+                            },
+                            {
+                                "word": "medications",
+                                "start": 31.849998,
+                                "end": 32.329998,
+                                "confidence": 0.99914587,
+                                "punctuated_word": "medications"
+                            },
+                            {
+                                "word": "are",
+                                "start": 32.329998,
+                                "end": 32.57,
+                                "confidence": 0.9998252,
+                                "punctuated_word": "are"
+                            },
+                            {
+                                "word": "prednisone",
+                                "start": 32.57,
+                                "end": 33.07,
+                                "confidence": 0.99698204,
+                                "punctuated_word": "prednisone"
+                            },
+                            {
+                                "word": "and",
+                                "start": 33.129997,
+                                "end": 33.37,
+                                "confidence": 0.9844319,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "lisinopril",
+                                "start": 33.37,
+                                "end": 33.87,
+                                "confidence": 0.98479986,
+                                "punctuated_word": "Lisinopril"
+                            },
+                            {
+                                "word": "with",
+                                "start": 34.25,
+                                "end": 34.489998,
+                                "confidence": 0.96520674,
+                                "punctuated_word": "with"
+                            },
+                            {
+                                "word": "no",
+                                "start": 34.489998,
+                                "end": 34.809998,
+                                "confidence": 0.9985557,
+                                "punctuated_word": "no"
+                            },
+                            {
+                                "word": "known",
+                                "start": 34.809998,
+                                "end": 35.129997,
+                                "confidence": 0.99991095,
+                                "punctuated_word": "known"
+                            },
+                            {
+                                "word": "drug",
+                                "start": 35.129997,
+                                "end": 35.53,
+                                "confidence": 0.99981195,
+                                "punctuated_word": "drug"
+                            },
+                            {
+                                "word": "allergies",
+                                "start": 35.53,
+                                "end": 36.03,
+                                "confidence": 0.9996089,
+                                "punctuated_word": "allergies."
+                            },
+                            {
+                                "word": "she",
+                                "start": 36.73,
+                                "end": 36.97,
+                                "confidence": 0.9998016,
+                                "punctuated_word": "She"
+                            },
+                            {
+                                "word": "does",
+                                "start": 36.97,
+                                "end": 37.21,
+                                "confidence": 0.99994636,
+                                "punctuated_word": "does"
+                            },
+                            {
+                                "word": "not",
+                                "start": 37.21,
+                                "end": 37.37,
+                                "confidence": 0.99999046,
+                                "punctuated_word": "not"
+                            },
+                            {
+                                "word": "use",
+                                "start": 37.37,
+                                "end": 37.69,
+                                "confidence": 0.9998354,
+                                "punctuated_word": "use"
+                            },
+                            {
+                                "word": "tobacco",
+                                "start": 37.69,
+                                "end": 38.19,
+                                "confidence": 0.8648184,
+                                "punctuated_word": "tobacco,"
+                            },
+                            {
+                                "word": "illicit",
+                                "start": 38.329998,
+                                "end": 38.73,
+                                "confidence": 0.9968052,
+                                "punctuated_word": "illicit"
+                            },
+                            {
+                                "word": "drugs",
+                                "start": 38.73,
+                                "end": 39.129997,
+                                "confidence": 0.9820758,
+                                "punctuated_word": "drugs,"
+                            },
+                            {
+                                "word": "or",
+                                "start": 39.129997,
+                                "end": 39.37,
+                                "confidence": 0.9999405,
+                                "punctuated_word": "or"
+                            },
+                            {
+                                "word": "alcohol",
+                                "start": 39.37,
+                                "end": 39.87,
+                                "confidence": 0.9996122,
+                                "punctuated_word": "alcohol."
+                            },
+                            {
+                                "word": "she",
+                                "start": 40.329998,
+                                "end": 40.57,
+                                "confidence": 0.99979335,
+                                "punctuated_word": "She"
+                            },
+                            {
+                                "word": "walks",
+                                "start": 40.57,
+                                "end": 40.809998,
+                                "confidence": 0.99985135,
+                                "punctuated_word": "walks"
+                            },
+                            {
+                                "word": "on",
+                                "start": 40.809998,
+                                "end": 40.97,
+                                "confidence": 0.99996686,
+                                "punctuated_word": "on"
+                            },
+                            {
+                                "word": "a",
+                                "start": 40.97,
+                                "end": 41.129997,
+                                "confidence": 0.99987566,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "daily",
+                                "start": 41.129997,
+                                "end": 41.449997,
+                                "confidence": 0.99998164,
+                                "punctuated_word": "daily"
+                            },
+                            {
+                                "word": "basis",
+                                "start": 41.449997,
+                                "end": 41.85,
+                                "confidence": 0.95362604,
+                                "punctuated_word": "basis,"
+                            },
+                            {
+                                "word": "drink",
+                                "start": 41.85,
+                                "end": 42.09,
+                                "confidence": 0.9798907,
+                                "punctuated_word": "drink"
+                            },
+                            {
+                                "word": "drinks",
+                                "start": 42.329998,
+                                "end": 42.73,
+                                "confidence": 0.9997124,
+                                "punctuated_word": "drinks"
+                            },
+                            {
+                                "word": "1",
+                                "start": 42.73,
+                                "end": 42.89,
+                                "confidence": 0.71416557,
+                                "punctuated_word": "1"
+                            },
+                            {
+                                "word": "cup",
+                                "start": 42.89,
+                                "end": 43.05,
+                                "confidence": 0.99661726,
+                                "punctuated_word": "cup"
+                            },
+                            {
+                                "word": "of",
+                                "start": 43.05,
+                                "end": 43.21,
+                                "confidence": 0.9994843,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "coffee",
+                                "start": 43.21,
+                                "end": 43.53,
+                                "confidence": 0.9996132,
+                                "punctuated_word": "coffee"
+                            },
+                            {
+                                "word": "per",
+                                "start": 43.53,
+                                "end": 43.769997,
+                                "confidence": 0.99928206,
+                                "punctuated_word": "per"
+                            },
+                            {
+                                "word": "day",
+                                "start": 43.769997,
+                                "end": 44.17,
+                                "confidence": 0.9576338,
+                                "punctuated_word": "day,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 44.17,
+                                "end": 44.41,
+                                "confidence": 0.99967515,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "is",
+                                "start": 44.41,
+                                "end": 44.57,
+                                "confidence": 0.9972904,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "an",
+                                "start": 44.57,
+                                "end": 44.649998,
+                                "confidence": 0.9986745,
+                                "punctuated_word": "an"
+                            },
+                            {
+                                "word": "elementary",
+                                "start": 44.649998,
+                                "end": 45.149998,
+                                "confidence": 0.9987379,
+                                "punctuated_word": "elementary"
+                            },
+                            {
+                                "word": "school",
+                                "start": 45.29,
+                                "end": 45.53,
+                                "confidence": 0.9998447,
+                                "punctuated_word": "school"
+                            },
+                            {
+                                "word": "teacher",
+                                "start": 45.53,
+                                "end": 46.03,
+                                "confidence": 0.99893904,
+                                "punctuated_word": "teacher."
+                            },
+                            {
+                                "word": "her",
+                                "start": 47.385,
+                                "end": 47.625,
+                                "confidence": 0.9997762,
+                                "punctuated_word": "Her"
+                            },
+                            {
+                                "word": "mother",
+                                "start": 47.625,
+                                "end": 48.024998,
+                                "confidence": 0.9998939,
+                                "punctuated_word": "mother"
+                            },
+                            {
+                                "word": "died",
+                                "start": 48.024998,
+                                "end": 48.504997,
+                                "confidence": 0.9998012,
+                                "punctuated_word": "died"
+                            },
+                            {
+                                "word": "from",
+                                "start": 48.504997,
+                                "end": 48.905,
+                                "confidence": 0.99969506,
+                                "punctuated_word": "from"
+                            },
+                            {
+                                "word": "a",
+                                "start": 48.905,
+                                "end": 49.145,
+                                "confidence": 0.9986418,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "from",
+                                "start": 49.385,
+                                "end": 49.704998,
+                                "confidence": 0.9998259,
+                                "punctuated_word": "from"
+                            },
+                            {
+                                "word": "sudden",
+                                "start": 49.704998,
+                                "end": 50.105,
+                                "confidence": 0.9988945,
+                                "punctuated_word": "sudden"
+                            },
+                            {
+                                "word": "death",
+                                "start": 50.105,
+                                "end": 50.504997,
+                                "confidence": 0.99954385,
+                                "punctuated_word": "death"
+                            },
+                            {
+                                "word": "at",
+                                "start": 50.504997,
+                                "end": 50.665,
+                                "confidence": 0.99892896,
+                                "punctuated_word": "at"
+                            },
+                            {
+                                "word": "age",
+                                "start": 50.665,
+                                "end": 50.905,
+                                "confidence": 0.99805546,
+                                "punctuated_word": "age"
+                            },
+                            {
+                                "word": "40",
+                                "start": 50.905,
+                                "end": 51.385,
+                                "confidence": 0.9748443,
+                                "punctuated_word": "40"
+                            },
+                            {
+                                "word": "and",
+                                "start": 51.385,
+                                "end": 51.704998,
+                                "confidence": 0.9056245,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "father",
+                                "start": 51.704998,
+                                "end": 52.024998,
+                                "confidence": 0.98163337,
+                                "punctuated_word": "father"
+                            },
+                            {
+                                "word": "from",
+                                "start": 52.024998,
+                                "end": 52.265,
+                                "confidence": 0.9949942,
+                                "punctuated_word": "from"
+                            },
+                            {
+                                "word": "a",
+                                "start": 52.265,
+                                "end": 52.425,
+                                "confidence": 0.997472,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "myocardial",
+                                "start": 52.425,
+                                "end": 52.925,
+                                "confidence": 0.9978493,
+                                "punctuated_word": "myocardial"
+                            },
+                            {
+                                "word": "infarction",
+                                "start": 53.145,
+                                "end": 53.625,
+                                "confidence": 0.9990411,
+                                "punctuated_word": "infarction"
+                            },
+                            {
+                                "word": "at",
+                                "start": 53.625,
+                                "end": 53.785,
+                                "confidence": 0.99709105,
+                                "punctuated_word": "at"
+                            },
+                            {
+                                "word": "59",
+                                "start": 53.785,
+                                "end": 54.285,
+                                "confidence": 0.97720695,
+                                "punctuated_word": "59."
+                            },
+                            {
+                                "word": "her",
+                                "start": 54.905,
+                                "end": 55.145,
+                                "confidence": 0.9992525,
+                                "punctuated_word": "Her"
+                            },
+                            {
+                                "word": "physical",
+                                "start": 55.145,
+                                "end": 55.645,
+                                "confidence": 0.99951327,
+                                "punctuated_word": "physical"
+                            },
+                            {
+                                "word": "exam",
+                                "start": 55.704998,
+                                "end": 56.105,
+                                "confidence": 0.99925977,
+                                "punctuated_word": "exam"
+                            },
+                            {
+                                "word": "showed",
+                                "start": 56.105,
+                                "end": 56.425,
+                                "confidence": 0.9936805,
+                                "punctuated_word": "showed"
+                            },
+                            {
+                                "word": "jugular",
+                                "start": 56.425,
+                                "end": 56.905,
+                                "confidence": 0.98786235,
+                                "punctuated_word": "jugular"
+                            },
+                            {
+                                "word": "venous",
+                                "start": 56.905,
+                                "end": 57.305,
+                                "confidence": 0.9994641,
+                                "punctuated_word": "venous"
+                            },
+                            {
+                                "word": "distension",
+                                "start": 57.305,
+                                "end": 57.805,
+                                "confidence": 0.86053544,
+                                "punctuated_word": "distension,"
+                            },
+                            {
+                                "word": "wheezing",
+                                "start": 58.425,
+                                "end": 58.905,
+                                "confidence": 0.9694493,
+                                "punctuated_word": "wheezing,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 58.905,
+                                "end": 59.065,
+                                "confidence": 0.92840284,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "s",
+                                "start": 59.065,
+                                "end": 59.305,
+                                "confidence": 0.9528889,
+                                "punctuated_word": "s"
+                            },
+                            {
+                                "word": "4",
+                                "start": 59.305,
+                                "end": 59.625,
+                                "confidence": 0.665466,
+                                "punctuated_word": "4"
+                            },
+                            {
+                                "word": "murmur",
+                                "start": 59.625,
+                                "end": 60.125,
+                                "confidence": 0.95036125,
+                                "punctuated_word": "murmur,"
+                            },
+                            {
+                                "word": "lower",
+                                "start": 60.265,
+                                "end": 60.665,
+                                "confidence": 0.99678373,
+                                "punctuated_word": "lower"
+                            },
+                            {
+                                "word": "extremity",
+                                "start": 60.665,
+                                "end": 61.165,
+                                "confidence": 0.99820006,
+                                "punctuated_word": "extremity"
+                            },
+                            {
+                                "word": "edema",
+                                "start": 61.305,
+                                "end": 61.805,
+                                "confidence": 0.93743867,
+                                "punctuated_word": "edema."
+                            },
+                            {
+                                "word": "labs",
+                                "start": 62.280003,
+                                "end": 62.52,
+                                "confidence": 0.6479314,
+                                "punctuated_word": "Labs"
+                            },
+                            {
+                                "word": "and",
+                                "start": 62.52,
+                                "end": 62.68,
+                                "confidence": 0.6394159,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "imaging",
+                                "start": 62.68,
+                                "end": 63.16,
+                                "confidence": 0.96792555,
+                                "punctuated_word": "imaging"
+                            },
+                            {
+                                "word": "support",
+                                "start": 63.16,
+                                "end": 63.66,
+                                "confidence": 0.9940194,
+                                "punctuated_word": "support"
+                            },
+                            {
+                                "word": "the",
+                                "start": 63.88,
+                                "end": 64.2,
+                                "confidence": 0.9976472,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "diagnosis",
+                                "start": 64.2,
+                                "end": 64.7,
+                                "confidence": 0.99891627,
+                                "punctuated_word": "diagnosis"
+                            },
+                            {
+                                "word": "of",
+                                "start": 64.76,
+                                "end": 65.0,
+                                "confidence": 0.99972874,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "sarcoidosis",
+                                "start": 65.0,
+                                "end": 65.5,
+                                "confidence": 0.9967349,
+                                "punctuated_word": "sarcoidosis"
+                            },
+                            {
+                                "word": "that",
+                                "start": 66.44,
+                                "end": 66.68,
+                                "confidence": 0.99668866,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "has",
+                                "start": 66.68,
+                                "end": 67.0,
+                                "confidence": 0.99969006,
+                                "punctuated_word": "has"
+                            },
+                            {
+                                "word": "infiltrated",
+                                "start": 67.0,
+                                "end": 67.5,
+                                "confidence": 0.99106896,
+                                "punctuated_word": "infiltrated"
+                            },
+                            {
+                                "word": "the",
+                                "start": 67.96,
+                                "end": 68.04,
+                                "confidence": 0.9997824,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "heart",
+                                "start": 68.04,
+                                "end": 68.28,
+                                "confidence": 0.99990547,
+                                "punctuated_word": "heart"
+                            },
+                            {
+                                "word": "muscle",
+                                "start": 68.28,
+                                "end": 68.78,
+                                "confidence": 0.9994179,
+                                "punctuated_word": "muscle."
+                            },
+                            {
+                                "word": "our",
+                                "start": 69.08,
+                                "end": 69.32,
+                                "confidence": 0.9992255,
+                                "punctuated_word": "Our"
+                            },
+                            {
+                                "word": "plan",
+                                "start": 69.32,
+                                "end": 69.56,
+                                "confidence": 0.9999739,
+                                "punctuated_word": "plan"
+                            },
+                            {
+                                "word": "is",
+                                "start": 69.56,
+                                "end": 69.72,
+                                "confidence": 0.99993384,
+                                "punctuated_word": "is"
+                            },
+                            {
+                                "word": "to",
+                                "start": 69.72,
+                                "end": 69.88,
+                                "confidence": 0.99996674,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "admit",
+                                "start": 69.88,
+                                "end": 70.2,
+                                "confidence": 0.99962616,
+                                "punctuated_word": "admit"
+                            },
+                            {
+                                "word": "to",
+                                "start": 70.2,
+                                "end": 70.36,
+                                "confidence": 0.9997993,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "the",
+                                "start": 70.36,
+                                "end": 70.44,
+                                "confidence": 0.9971842,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "hospital",
+                                "start": 70.44,
+                                "end": 70.92,
+                                "confidence": 0.99995196,
+                                "punctuated_word": "hospital"
+                            },
+                            {
+                                "word": "where",
+                                "start": 70.92,
+                                "end": 71.16,
+                                "confidence": 0.9141028,
+                                "punctuated_word": "where"
+                            },
+                            {
+                                "word": "she",
+                                "start": 71.16,
+                                "end": 71.32,
+                                "confidence": 0.9999056,
+                                "punctuated_word": "she"
+                            },
+                            {
+                                "word": "will",
+                                "start": 71.32,
+                                "end": 71.48,
+                                "confidence": 0.9999255,
+                                "punctuated_word": "will"
+                            },
+                            {
+                                "word": "follow-up",
+                                "start": 71.48,
+                                "end": 71.96,
+                                "confidence": 0.9999091,
+                                "punctuated_word": "follow-up"
+                            },
+                            {
+                                "word": "with",
+                                "start": 71.96,
+                                "end": 72.12,
+                                "confidence": 0.99993074,
+                                "punctuated_word": "with"
+                            },
+                            {
+                                "word": "a",
+                                "start": 72.12,
+                                "end": 72.2,
+                                "confidence": 0.7687723,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "cardiologist",
+                                "start": 72.2,
+                                "end": 72.7,
+                                "confidence": 0.99988866,
+                                "punctuated_word": "cardiologist"
+                            },
+                            {
+                                "word": "and",
+                                "start": 72.92,
+                                "end": 73.08,
+                                "confidence": 0.99516064,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "radiologist",
+                                "start": 73.08,
+                                "end": 73.58,
+                                "confidence": 0.99695826,
+                                "punctuated_word": "radiologist"
+                            },
+                            {
+                                "word": "for",
+                                "start": 73.72,
+                                "end": 73.880005,
+                                "confidence": 0.999645,
+                                "punctuated_word": "for"
+                            },
+                            {
+                                "word": "a",
+                                "start": 73.880005,
+                                "end": 74.04,
+                                "confidence": 0.99952793,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "pet",
+                                "start": 74.04,
+                                "end": 74.28,
+                                "confidence": 0.99853444,
+                                "punctuated_word": "PET"
+                            },
+                            {
+                                "word": "scan",
+                                "start": 74.28,
+                                "end": 74.78,
+                                "confidence": 0.99897045,
+                                "punctuated_word": "scan."
+                            },
+                            {
+                                "word": "we",
+                                "start": 75.81493,
+                                "end": 76.05494,
+                                "confidence": 0.9996704,
+                                "punctuated_word": "We"
+                            },
+                            {
+                                "word": "will",
+                                "start": 76.05494,
+                                "end": 76.214935,
+                                "confidence": 0.9984586,
+                                "punctuated_word": "will"
+                            },
+                            {
+                                "word": "up",
+                                "start": 76.214935,
+                                "end": 76.37494,
+                                "confidence": 0.9768892,
+                                "punctuated_word": "up"
+                            },
+                            {
+                                "word": "her",
+                                "start": 76.37494,
+                                "end": 76.534935,
+                                "confidence": 0.9981772,
+                                "punctuated_word": "her"
+                            },
+                            {
+                                "word": "dose",
+                                "start": 76.534935,
+                                "end": 76.77493,
+                                "confidence": 0.99732816,
+                                "punctuated_word": "dose"
+                            },
+                            {
+                                "word": "of",
+                                "start": 76.77493,
+                                "end": 76.93494,
+                                "confidence": 0.9963744,
+                                "punctuated_word": "of"
+                            },
+                            {
+                                "word": "prednisone",
+                                "start": 76.93494,
+                                "end": 77.41493,
+                                "confidence": 0.99936485,
+                                "punctuated_word": "prednisone"
+                            },
+                            {
+                                "word": "to",
+                                "start": 77.41493,
+                                "end": 77.574936,
+                                "confidence": 0.99889034,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "60",
+                                "start": 77.574936,
+                                "end": 77.97494,
+                                "confidence": 0.9930139,
+                                "punctuated_word": "60"
+                            },
+                            {
+                                "word": "milligrams",
+                                "start": 77.97494,
+                                "end": 78.47494,
+                                "confidence": 0.9826963,
+                                "punctuated_word": "milligrams,"
+                            },
+                            {
+                                "word": "add",
+                                "start": 78.93494,
+                                "end": 79.09493,
+                                "confidence": 0.9429862,
+                                "punctuated_word": "add"
+                            },
+                            {
+                                "word": "furosemide",
+                                "start": 79.09493,
+                                "end": 79.59493,
+                                "confidence": 0.95973206,
+                                "punctuated_word": "furosemide,"
+                            },
+                            {
+                                "word": "and",
+                                "start": 79.97494,
+                                "end": 80.29494,
+                                "confidence": 0.9987841,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "amiodarone",
+                                "start": 80.29494,
+                                "end": 80.79494,
+                                "confidence": 0.99125654,
+                                "punctuated_word": "amiodarone."
+                            },
+                            {
+                                "word": "she",
+                                "start": 81.33494,
+                                "end": 81.494934,
+                                "confidence": 0.99973875,
+                                "punctuated_word": "She"
+                            },
+                            {
+                                "word": "will",
+                                "start": 81.494934,
+                                "end": 81.73494,
+                                "confidence": 0.99994063,
+                                "punctuated_word": "will"
+                            },
+                            {
+                                "word": "continue",
+                                "start": 81.73494,
+                                "end": 82.13493,
+                                "confidence": 0.9999654,
+                                "punctuated_word": "continue"
+                            },
+                            {
+                                "word": "on",
+                                "start": 82.13493,
+                                "end": 82.29494,
+                                "confidence": 0.99930525,
+                                "punctuated_word": "on"
+                            },
+                            {
+                                "word": "her",
+                                "start": 82.29494,
+                                "end": 82.45493,
+                                "confidence": 0.99967146,
+                                "punctuated_word": "her"
+                            },
+                            {
+                                "word": "current",
+                                "start": 82.45493,
+                                "end": 82.77493,
+                                "confidence": 0.9984987,
+                                "punctuated_word": "current"
+                            },
+                            {
+                                "word": "lisinopril",
+                                "start": 82.77493,
+                                "end": 83.27493,
+                                "confidence": 0.9973609,
+                                "punctuated_word": "Lisinopril."
+                            },
+                            {
+                                "word": "thank",
+                                "start": 84.29494,
+                                "end": 84.61494,
+                                "confidence": 0.9985531,
+                                "punctuated_word": "Thank"
+                            },
+                            {
+                                "word": "you",
+                                "start": 84.61494,
+                                "end": 85.11494,
+                                "confidence": 0.99952793,
+                                "punctuated_word": "you."
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nMrs. Palmer is a 62 year old female presenting to the ER with chest palpitations and syncope. The symptoms have been gradually getting worse over the past 2 months and have increased dramatically over the past 3 days. They happen during any activity. The patient presented with an 8 pound weight gain, swollen like syncope, palpitations, coughing, and is currently sleeping in a chair.\n\nHer previous medical problems are hypertension, controlled, and pulmonary sarcoidosis. Her current medications are prednisone and Lisinopril with no known drug allergies. She does not use tobacco, illicit drugs, or alcohol. She walks on a daily basis, drink drinks 1 cup of coffee per day, and is an elementary school teacher. Her mother died from a from sudden death at age 40 and father from a myocardial infarction at 59.\n\nHer physical exam showed jugular venous distension, wheezing, and s 4 murmur, lower extremity edema. Labs and imaging support the diagnosis of sarcoidosis that has infiltrated the heart muscle. Our plan is to admit to the hospital where she will follow-up with a cardiologist and radiologist for a PET scan. We will up her dose of prednisone to 60 milligrams, add furosemide, and amiodarone. She will continue on her current Lisinopril.\n\nThank you.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Mrs.",
+                                            "start": 0.24,
+                                            "end": 0.56
+                                        },
+                                        {
+                                            "text": "Palmer is a 62 year old female presenting to the ER with chest palpitations and syncope.",
+                                            "start": 0.56,
+                                            "end": 6.58
+                                        },
+                                        {
+                                            "text": "The symptoms have been gradually getting worse over the past 2 months and have increased dramatically over the past 3 days.",
+                                            "start": 7.04,
+                                            "end": 14.34
+                                        },
+                                        {
+                                            "text": "They happen during any activity.",
+                                            "start": 14.48,
+                                            "end": 16.535
+                                        },
+                                        {
+                                            "text": "The patient presented with an 8 pound weight gain, swollen like syncope, palpitations, coughing, and is currently sleeping in a chair.",
+                                            "start": 16.995,
+                                            "end": 25.494999
+                                        }
+                                    ],
+                                    "start": 0.24,
+                                    "end": 25.494999,
+                                    "num_words": 64
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Her previous medical problems are hypertension, controlled, and pulmonary sarcoidosis.",
+                                            "start": 25.795,
+                                            "end": 30.455
+                                        },
+                                        {
+                                            "text": "Her current medications are prednisone and Lisinopril with no known drug allergies.",
+                                            "start": 31.289999,
+                                            "end": 36.03
+                                        },
+                                        {
+                                            "text": "She does not use tobacco, illicit drugs, or alcohol.",
+                                            "start": 36.73,
+                                            "end": 39.87
+                                        },
+                                        {
+                                            "text": "She walks on a daily basis, drink drinks 1 cup of coffee per day, and is an elementary school teacher.",
+                                            "start": 40.329998,
+                                            "end": 46.03
+                                        },
+                                        {
+                                            "text": "Her mother died from a from sudden death at age 40 and father from a myocardial infarction at 59.",
+                                            "start": 47.385,
+                                            "end": 54.285
+                                        }
+                                    ],
+                                    "start": 25.795,
+                                    "end": 54.285,
+                                    "num_words": 70
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Her physical exam showed jugular venous distension, wheezing, and s 4 murmur, lower extremity edema.",
+                                            "start": 54.905,
+                                            "end": 61.805
+                                        },
+                                        {
+                                            "text": "Labs and imaging support the diagnosis of sarcoidosis that has infiltrated the heart muscle.",
+                                            "start": 62.280003,
+                                            "end": 68.78
+                                        },
+                                        {
+                                            "text": "Our plan is to admit to the hospital where she will follow-up with a cardiologist and radiologist for a PET scan.",
+                                            "start": 69.08,
+                                            "end": 74.78
+                                        },
+                                        {
+                                            "text": "We will up her dose of prednisone to 60 milligrams, add furosemide, and amiodarone.",
+                                            "start": 75.81493,
+                                            "end": 80.79494
+                                        },
+                                        {
+                                            "text": "She will continue on her current Lisinopril.",
+                                            "start": 81.33494,
+                                            "end": 83.27493
+                                        }
+                                    ],
+                                    "start": 54.905,
+                                    "end": 83.27493,
+                                    "num_words": 71
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Thank you.",
+                                            "start": 84.29494,
+                                            "end": 85.11494
+                                        }
+                                    ],
+                                    "start": 84.29494,
+                                    "end": 85.11494,
+                                    "num_words": 2
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
