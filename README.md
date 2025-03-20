@@ -7,4 +7,86 @@ This study aims to compare two novel voice recognition models, Deepgram Nova-2 a
 ## General Statistical Analysis
 Approximately 154 previously de-identified Integrated Clinical Case (ICC) recordings were transcribed by student researchers each receiving approximately 40 transcriptions. Transcriptions were further validated by an attending physician and data scientist to maintain textual cleaning uniformity. These initial transcripts are considered True Transcriptions. All recordings were transcribed by Deepgram Nova-2 and Whisper V3, for comparison of STT. The textual output was cleaned for abbreviates, punctuation, grammar, and other textual impurities. Stop words using the Natural Language Toolkit (NLTK) python library were also stripped from the text.  This process was universally applied to both Whisper and Deepgram. Next, the textual output for the models were analyzed using Term Frequency Inverse Document Frequency (TFIDF). The textual output of the two STT models were then paired against the true transcription, generating standard Large Language Model (LLM) error metrics. The models were evaluated on seven of these metrics: 1. Jaccard Similarity, 2. Jaro-Winkler Distance, 3. Leveshtein Distance, 4. Word Error Rate, 5. Word Information Loss, 6. Match Error Rate, and 7. Character Error Rate. Essentially these metrics evaluate a STT model
 
+## Standardization of Text:  
 
+  Removal of punctuation 
+
+  Text lowercased 
+  
+  For lexical analysis: stop words removed  
+
+ 
+
+## Identification of Substitutions, Insertions, and Deletions.  
+
+  Substitutions (S): Model replaced true word with another word in its output 
+
+  Insertion (I): Model added a word that is not present in true transcription in it outputs 
+
+  Deletions (D): Model deleted a word from the true transcription in its output 
+H: correct matches 
+ 
+
+## Metrics for Speech to Text (STT) Model Comparison:  
+
+### Word Error Rate (WER):  
+
+ 
+(S+I+D)/(Total Words in Presentation)
+
+
+### Character Error Rate (CER): 
+
+(S+I+D)/(Total Characters in Presentation)
+
+
+### Match Error Rate (MER):  
+
+(S+I+D)/(S+I+D+Correct Matches)
+
+### Word Information Lost (WIL):   
+
+1−H2(H+S+D)(H+S+I)
+
+### Jaccard Similarity:   
+
+A∩B/A∪B
+
+### Jaro – Winkler Distance: Similarity at character level of a string 
+
+Jaro Similarity: 
+
+Simj={013 (m|s1|+m|s2|+m−tm)
+
+
+Where 0 if m= 0 
+
+|si|: length of string. 
+
+m: number of matching characters 
+
+t : half the number of transpositions (count of non-matching characters at same index) 
+
+Jaro-Winkler Similarity: 
+
+sim_{w}=sim_{j}+lp(1−sim_{j})
+
+l : length of common prefix at start of string (4 maximum) 
+
+p : constant scaling factor p <= .25 (1/4 where 4 is maximum length of prefix) standard is p= 0.1  
+
+Jaro – Winkler Distance: 
+
+d_w=1− sim_w
+
+Ex. John vs. Jon vs. Andrew 
+
+Range 0-1  
+
+0 means exact match, 1 no similarity (Jaro-Winkler Similarity)  
+
+### Levenshtein Distance: Measuring difference between two sequences, distance between two words is the minimum number of single character edits required to change one word into the other. 
+
+
+
+ 
